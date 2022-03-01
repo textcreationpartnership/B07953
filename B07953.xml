@@ -1,0 +1,806 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true discourse concerning the certaine possession and dispossession of 7 persons in one familie in Lancashire, which also may serve as part of an answere to a fayned and false discoverie which speaketh very much evill, aswell of this, as of the rest of those great and mightie workes of God which bee of the like excellent nature. / by George More, minister and preacher of the worde of God, and now (for bearing witnesse vnto this, and for iustifying the rest) a prisoner in the Clinke, where he hath continued almost for the space of two yeares..</title>
+            <author>More, George.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1600</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 104 KB of XML-encoded text transcribed from 43 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B07953</idno>
+            <idno type="STC">STC 18070.5</idno>
+            <idno type="STC">ESTC S94225</idno>
+            <idno type="EEBO-CITATION">72799713</idno>
+            <idno type="OCLC">ocm 72799713</idno>
+            <idno type="VID">184106</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B07953)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184106)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2228:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true discourse concerning the certaine possession and dispossession of 7 persons in one familie in Lancashire, which also may serve as part of an answere to a fayned and false discoverie which speaketh very much evill, aswell of this, as of the rest of those great and mightie workes of God which bee of the like excellent nature. / by George More, minister and preacher of the worde of God, and now (for bearing witnesse vnto this, and for iustifying the rest) a prisoner in the Clinke, where he hath continued almost for the space of two yeares..</title>
+                  <author>More, George.</author>
+               </titleStmt>
+               <extent>85 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Richard Schilders],</publisher>
+                  <pubPlace>[Middelburg :</pubPlace>
+                  <date>1600.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printer's name and place of publication from STC (2nd ed.).</note>
+                  <note>Printer's ornament t.p., headpieces, tailpieces, initials, printed marginalia.</note>
+                  <note>Signatures: A-E⁸ F³.</note>
+                  <note>A reply to: Harsnett, Samuel. A discovery of the fraudulent practises of John Darrel.</note>
+                  <note>66, 67, 70, 71, 74, 75, 78, 79 wrongly numbered respectively 70, 71, 74, 75, 78, 79, 82, 83.</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Harsnett, Samuel, 1561-1631. --  Discovery of the fraudulent practises of John Darrel --  Controversial literature --  Early works to 1800.</term>
+               <term>Demoniac possession --  England --  Lancashire --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Greg Schutz</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Greg Schutz</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:184106:1"/>
+            <p>A true Diſcourſe concer<g ref="char:EOLhyphen"/>ning the certaine poſſeſsion and diſpoſſeſſion of 7 perſons in one familie in <hi>Lancaſhire,</hi> which alſo may ſerve as part of an Anſwere to a fayned and falſe <hi>Diſcoverie</hi> which ſpeaketh very much evill, aſwell of this, as of the reſt of thoſe great and mightie workes of God which bee of the like excellent na<g ref="char:EOLhyphen"/>ture.</p>
+            <p>By George More, Miniſter and Preacher of the worde of God, and now (for bearing wit<g ref="char:EOLhyphen"/>neſſe vnto this, and for iustifying the rest) a priſoner in the Clinke, where he hath continued almost for the ſpace of two yeares.</p>
+            <q>
+               <p>Remember thou magnifie the worke of God which men beholde.
+<bibl>Iob. 36.24.</bibl>
+               </p>
+            </q>
+            <q>
+               <p>We ſpeake that we know, &amp; teſtifie that which we haue ſeene: but ye receiue not our teſtimonie.
+<bibl>Iob. 3.11.</bibl>
+               </p>
+            </q>
+            <p>1600.</p>
+         </div>
+      </front>
+      <body>
+         <div type="to_the_reader">
+            <pb facs="tcp:184106:2"/>
+            <pb n="3" facs="tcp:184106:2"/>
+            <head>To the Chriſtian READER.</head>
+            <p>FOraſmuch good Reader as it is the ma<g ref="char:EOLhyphen"/>ner of men that ſet foorth any ſtorie, though it be but ſhort, to giue a Reaſon of their purpoſe therein, least they ſhould ſeeme either raſhly to attempt that which is not conuenient, or otherwiſe buſie them ſelues to bring forth that which is not neceſſarie, for this cauſe I haue thought good to prefixe theſe Reaſons enſuing to this diſcourſe, that ſo the weighing of them might make the matter ſomething more worth in their conceite, with whom nothing (though of it ſelfe it be neuer ſo ſavorie) tasteth well, except it be rare and excellent, neither can they digest that, which is verie good and wholeſome, except it be of great conſequence and expectation: this ſorte may miſlike the handling of this ſtrange ſtorie in this harſhe manner, whiles they affecte great and high things: yet the moo<g ref="char:EOLhyphen"/>ving cauſes of ſetting it out being conſidered, may ouercome that curioſitie, and worke ſome contentement.</p>
+            <pb n="4" facs="tcp:184106:3"/>
+            <p>First then in respect that both the Storie of the poſſeſſion &amp; dispoſſeſſion of <hi>Thomas Darling,</hi> and alſo many things concerning the ſtraunge handling of <hi>William Su<g ref="char:cmbAbbrStroke">̄</g>mers</hi> to ſeconde the ſame, are both put in print, &amp; though the trueth of both be ſufficie<g ref="char:cmbAbbrStroke">̄</g>tlie clea<g ref="char:EOLhyphen"/>red therin, yet there is great oppoſition both by worde &amp; writing offered of ſet purpoſe to hinder the crediting of either: I thought it fit to adde to theſe two the ſtorie of thoſe in <hi>Lancaſhire,</hi> as famous as the rest, both in that they were 7 in one familie all poſſeſſed at once, as alſo that they were all 7 dispoſſeſſed within two dayes by prayer and faſting: that this alſo being publiſhed as the thirde glori<g ref="char:EOLhyphen"/>ous witnes of the wonderfull workes of God wrought and ſeene in 3 ſeuerall Shires of our lande, all men might be the more moo<g ref="char:EOLhyphen"/>ved to beleeue the trueth of theſe thinges: ſeeing at the mouth of 3 ſuch ſufficient wit<g ref="char:EOLhyphen"/>neſſes, it is ſo ſurely ſealed vp and confir<g ref="char:EOLhyphen"/>med.</p>
+            <p>Secondlie, in respect of the papistes who doe more maligne this particular of Lanca<g ref="char:EOLhyphen"/>ſhire then any of the rest, labouring mighti<g ref="char:EOLhyphen"/>lie and by many meanes both to diſcredite and diſannull it; wherevpon ſome of them haue giuen it out, that thoſe 7 were not poſ<g ref="char:EOLhyphen"/>ſest: other ſay, that they were all 7 poſſeſt
+<pb n="5" facs="tcp:184106:3"/>but neuer yet dispoſſest: and ſome others of them affirme, that they were all diſpoſſeſſed, yet not by Preachers of the Gospell, but by their Seminaries, &amp; maſſe-prieſtes: and this last runnes for currante among them.</p>
+            <p>For there being 8 or 9 Seminaries in the Clincke, diuers of them ſtood out against me to my face, and tolde me, that what ſoever was done in Lancaſhire by vs, was done by coniuring and knaverie: And though M. Starkie him ſelfe did iuſtifie the whole mat<g ref="char:EOLhyphen"/>ter, and cleared it from all their ſlaunders, and that before the chiefest of them in the Clincke, yet they receyued not his testimo<g ref="char:EOLhyphen"/>nie, but tolde him, they had receyued the re<g ref="char:EOLhyphen"/>port of this from a Gentleman in that coun<g ref="char:EOLhyphen"/>trie, whom they would credit before him in this caſe. And no maruell, for if the Church of Englande haue this power to cast out de<g ref="char:EOLhyphen"/>vills, then the Church of Rome is a falſe Church, for there can be but one true Church, the principall marke whereof (as they ſay) is to worke miracles, and of them this is the greatest, namely to cast out Devills. And herevpon conferring at another tyme with two of them, they brought out this bold pro<g ref="char:EOLhyphen"/>testation, that if we could proove any ſuch power to be in our Church, and ſhew them an infallible instance or example to iustifie
+<pb n="6" facs="tcp:184106:4"/>the practiſe thereof, then would they ioyne them ſelves to your Church aſſemblies, and freely embrace our religion.</p>
+            <p>Thirdlie, in respect of that groſſe and great errour, which is a common and recei<g ref="char:EOLhyphen"/>ued opinion among the most, namely, that we doe challenge to our ſelues ſome ſpeciall gift to cast out Devills aboue other men, which though we haue vtterly diſclaymed, yet many doe ignorantlie aſcribe the effect of the worke wrought, rather to ſome ex<g ref="char:EOLhyphen"/>traordinarie power in vs, then to the ordi<g ref="char:EOLhyphen"/>nance of Christ, which in no caſe ought ſo to be.</p>
+            <p>But chieflie J haue taken in hande this brief diſcourſe for the better clearing both of Ma. Darrell and my ſelfe, from thoſe ac<g ref="char:EOLhyphen"/>cuſations and ſlaunders of coſinage &amp; coun<g ref="char:EOLhyphen"/>terfeiting, werwithall we are charged both by word and writing, as if wee were guiltie thereof, even in this particular of Lanca<g ref="char:EOLhyphen"/>ſhire.</p>
+            <p>For there is a booke of a large volume late<g ref="char:EOLhyphen"/>lie come out vnder the name of <hi>S. H.</hi> croſ<g ref="char:EOLhyphen"/>ſhing and contradicting the whole courſe of proceeding for Mai. Darrels clearing,
+<note place="margin">Diſcover. booke 1. chap 5. pag. 29.</note> yoa<g ref="char:EOLhyphen"/>king me alſo with him in this develiſh leger<g ref="char:EOLhyphen"/>demaine (as they terme it) calling vs a cou<g ref="char:EOLhyphen"/>ple of couſining hipocrites, vſing alſo manie
+<pb n="7" facs="tcp:184106:4"/>other badde termes.</p>
+            <p>The title of this booke is termed, <hi>A diſco<g ref="char:EOLhyphen"/>verie of fraud<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lent practiſes concerninge prete<g ref="char:cmbAbbrStroke">̄</g>ded poſſeſſions.</hi> It contained 5 bookes, the firct whereof doth more concerne me, &amp; the matter of facte for <hi>Lanca<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hire,</hi> then the rest doe: ſo much therfore as I can conveni<g ref="char:EOLhyphen"/>entlie for the clearing of both, I will anſwer vnto, and leaue the rest vnto him who hath iust occaſion offered, to vſe his best defence in that behalfe.</p>
+            <p>Lastlie for that this diſcouerer,
+<note place="margin">Diſcover<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> booke 1. chap. 3. pag. 17. booke <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. chap. 10. pag 58. booke 5. chap. 8. pa. 324.</note> whoſoe<g ref="char:EOLhyphen"/>uer he be, finds great fault with ſome of our friendes, for that they ſpake ſo much of the dispoſſeſſion of <hi>Summers</hi> in a little treatiſe or two, but nothing of the dispoſſeſſio<g ref="char:cmbAbbrStroke">̄</g> of theſe 7 in Lancaſhire and of ſome others: And ſeemes ſometimes to challe<g ref="char:cmbAbbrStroke">̄</g>ge vs to make our anſwere, if we haue any more to ſay, and to ſpeake for our ſelves what we can.</p>
+            <p>
+               <g ref="char:V">Ʋ</g>pon theſe iust occaſions, I haue vnder<g ref="char:EOLhyphen"/>taken this ſhort diſcourſe, hoping here by to detect the falſehoode of this diſcouerie con<g ref="char:EOLhyphen"/>cerning this particular facte, by clearing it, and in it the rest which are like vnto it, of ſuch malitious ſlaunders as are rayſed a<g ref="char:EOLhyphen"/>gainst it: that ſo all things being faithfullie deſcribed from point to point, appertayning to this matter, all men may ſee, both what
+<pb n="8" facs="tcp:184106:5"/>great cauſe J haue aboue any other to de<g ref="char:EOLhyphen"/>fende this, as the wonderfull worke of God, as alſo that it might better appeare, whether we or they that haue written and dealt a<g ref="char:EOLhyphen"/>gainst vs, be deepest in this diſſimulation, and who bee greatest couſiners and decey<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ers.</p>
+         </div>
+         <div type="text">
+            <pb n="9" facs="tcp:184106:5"/>
+            <head>A brief and true diſcourſe con<g ref="char:EOLhyphen"/>tayning the certayne poſſeſſion and diſpoſſeſſion of 7 perſons in one familie in <hi>Lancaſhire,</hi> as namely of <hi>Iohn Starkie, Anne Starkie, Margret Hurdman, Ellynor Hurdman, Ell<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Hollande, Margret Byrom,</hi> and <hi>Iane Aſhton,</hi> which may ſerve (as an interim) for a peece of an anſwere to that fraudulent diſcoverie lately come out, which depraveth theſe, aſwell as the reſt of thoſe great &amp; mightie workes of God, which be of the ſame kinde.</head>
+            <div n="2" type="part">
+               <p>
+                  <seg rend="decorInit">I</seg>N this diſcourſe, I meane not to meddle with that deceitful and depraving diſcoverie, further then concernes this matter of facte for Lancaſhire on<g ref="char:EOLhyphen"/>lie, reſerving all matters of opinion, and the anſwering of all their obi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ctions, to a more full and fitter time. And ſo avoyding all tediouſnes as neare as I can, I will indevour fullie and plainly to reveile the trueth, that I may quicklie diſpatch the ſtorie.</p>
+               <p>And becauſe the drift of this deſperate detractour is to detecte our dealing with the 7 to be a deceiueable practize, aſwell
+<pb n="10" facs="tcp:184106:6"/>as the reſt which are (by him) pretended ſo to be: And that this chiefeſt oppoſition vnto this worke conſiſteth in 5. principall things, which bring ſore vrged, and eaſilie receyued, will endanger greatly the credit of the Storie. In reſpect hereof. I will di<g ref="char:EOLhyphen"/>geſt this whole diſcourſe into 5 principall heades or chiefe places; which may ſerue fitly, both to giue more light to the ſtorie, and for a more direct aunſwere to the diſ<g ref="char:EOLhyphen"/>couerie.</p>
+               <p>In the firſt place, I will as truelie as I can deſcribe the ſtate of theſe perſons and of their ſtrange and troubleſome afflictions, together with the outward cauſes and oc<g ref="char:EOLhyphen"/>caſions thereof, which alſo continued for the moſt parte, for the ſpace of two yeares and a halfe, before we came vnto them.</p>
+               <p>Secondly, I will ſet downe the ſtraunge ſignes ſhewed forth by them, both gene<g ref="char:EOLhyphen"/>rally and particularly, to prooue that they were truely and actually poſſeſſed.</p>
+               <p>In the 3 place I will ſhew the cauſes and occaſions of our co<g ref="char:cmbAbbrStroke">̄</g>ming into Lancaſhire, &amp; what beginning &amp; proceeding we made in performing that great worke which we tooke in hande.</p>
+               <p>Fourthly, I will manifeſt the meanes, &amp; cleare the maner of their deliuerance.</p>
+               <pb n="11" facs="tcp:184106:6"/>
+               <p>And laſtly, I will brieflie mention the ſi<g ref="char:EOLhyphen"/>gnes of their diſpeſt ſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>o<g ref="char:cmbAbbrStroke">̄</g>, which may ſerve to cleare it from all ſuſpuion.</p>
+               <p>Theſe points I purpoſe briefly to touch, &amp; not to handle the at large according to the worthines of the matter, which indeed is ſuch as doth deſerve both a more ful diſ<g ref="char:EOLunhyphen"/>courſe, and alſo a more pregnant facultie to commend it, then I am able to afforde.</p>
+               <p>In the firſt place, order requireth, that we ſhow<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the ſtate of theſe 7 perſons af<g ref="char:EOLhyphen"/>flicted, before we come vnto them, which was moſt ſtrange and fea<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> full, and howe it came ſo to paſſe, and of the coutinuance of it for th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſpace of two yeares and more: all which may plainly appeare by this which followeth.</p>
+               <p>At Cl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>worth in Lancaſhire within the pariſh of Leigh, there dwelleth one Ni<g ref="char:EOLhyphen"/>cholas Starkie gentleman, who maried a gentle woman that was an inheretrix, and of whoſe kinred ſome were papiſtes, of whom ſome partly for Religion, and part<g ref="char:EOLhyphen"/>lie for that the lande deſcended not to the heires male, wiſhed and vowed ſtil to pray for the periſhing of her iſſue, and accor<g ref="char:EOLhyphen"/>dingly 4 of her children (though at their birth likely to lin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>) yet afterward pined a<g ref="char:EOLhyphen"/>way in moſt ſtrange maner.</p>
+               <pb n="12" facs="tcp:184106:7"/>
+               <p>Some of M<hi rend="sub">rs</hi> Starkies kinred obſerving how one childe pined away after another, moued with co<g ref="char:cmbAbbrStroke">̄</g>paſſion, told Miſtrers Star<g ref="char:EOLhyphen"/>kie of the ſaid vnnatural vowe, ſhe here <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>pon conceyued ſuch a grief, that ſhe made an eſtate of her lande to her huſband &amp; his heires, (all iſſue fayling her ſelfe.) After which conveyance made, Miſtres Starkie had two children, a ſonne and a daughter, both which proſpered well, till they came to 10 or 12 yeares of age, but the<g ref="char:cmbAbbrStroke">̄</g> with ſiue moe in her family, they were poſſeſſed and vexed with evill ſpirites, as the ſequele doeth declare.</p>
+               <p>In the beginning of February 1594: firſt Anne the daughter was taken with a dum<g ref="char:EOLhyphen"/>piſhe heavie countenance, and with a cer<g ref="char:EOLhyphen"/>tain fearfull ſtarting &amp; pulling together of her-bodie. About a weeke after, Iohn Star<g ref="char:EOLhyphen"/>kie the ſonne was taken as he was going to ſchole, and was compelled to ſhowte vehe<g ref="char:EOLhyphen"/>mentlie, not being able to ſtay him ſelfe. After this they waxed worſe and worſe, fal<g ref="char:EOLhyphen"/>ling into often ſtrange &amp; extreame fittes.</p>
+               <p>Wherewith M. Starkie grieved &amp; having bin at charges 200 lb. or therabouts, ſoght remedie without due regard, (for to ſpeake of no more) he went to a Seminarie Prieſt, who could do no good, becauſe (forſooth)
+<pb n="13" facs="tcp:184106:7"/>he had not then his bookes, wherevpon M. Starkie co<g ref="char:cmbAbbrStroke">̄</g>tinued ſtil ſeeking for helpe: and heard of one Edmond Hartley a witch whom hee made acquainted with the ſtate of his children, and with large offers craved his helpe: in the end Hartley con<g ref="char:EOLhyphen"/>ſented to come. Who being there, and ha<g ref="char:EOLhyphen"/>uing vſed certayne popiſh charmes and hearbes, by degrees, the children were at quiet, &amp; ſo continued, ſeeming to be well almoſt a yeare and a halfe; All which time Hartley came often to viſit the<g ref="char:cmbAbbrStroke">̄</g>, at length he fayned as though he would goe into another countrie, but whither M. Starkie might not know, and when hee began to goe his way, Iohn Starkie fell a bleeding, and Hartley comming to him, ſaied, if he had bene but 40 roodes from him, none could haue ſtaunched him, and thus it fell out at other times.</p>
+               <p>M. Starkie then fearing leaſt his chil<g ref="char:EOLhyphen"/>dren would be much troubled in his ab<g ref="char:EOLhyphen"/>ſence, &amp; he vncertaine where to find him, offered to giue 40. ſhillings a yeare penti<g ref="char:EOLhyphen"/>on for his aſſiſtance in time of need, which offer at the firſt hee conſented to accepte, but afterward not ſatisfied, hee coueted more (houſe and ground:) which whe<g ref="char:cmbAbbrStroke">̄</g> M. Starkie refuſed to giue, he threatned in a
+<pb n="14" facs="tcp:184106:8"/>fume in the abſence of M. Sta<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>kie, but in the hearing of many, that if he would not fulfill his minde, hee would m<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>k ſuch a ſhowre at Clew<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rth, as neuer was heard, which was alſo <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ffected in ſuch a hideous and fearfull maner, as the like in England hath not bene heard.</p>
+               <p>After this Mai. Sta<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>kie going to his Fa<g ref="char:EOLhyphen"/>thers houſe, this Hartley went with him, who being there after he was in bed, was tormented ſore all night longe: the next day being recouered, he went into a little wood not farre off from the houſe where he made a Circle the compas of a yard and halfe, with many croſſes and partitions, which being finiſhed he came back to call M. Starkie, telling him what he had done, and deſired him to goe and tread out his circle, for he ſaid he might not doe it him ſelfe. This beeing alſo diſpatched, well quoth hee, now I ſhall trouble him that troubled me, and be meete with him that ſought my death.</p>
+               <p>Whe<g ref="char:cmbAbbrStroke">̄</g> M. Starkie perceyued this, &amp; many other bad qualities in this fellowe, he wa<g ref="char:EOLhyphen"/>red weatie of him, eſpecially ſeeing no a<g ref="char:EOLhyphen"/>mendment in his children but that they rather became worſe and worſe, hee then ſought (though ſecretlie) for other helpe
+<pb n="15" facs="tcp:184106:8"/>to the Phiſitions: after that to one Doctor Dee at Mancheſter, who wiſhed Ma<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Star<g ref="char:EOLhyphen"/>kie to craue the helpe &amp; aſſiſtance of ſome godlie Preacher, with whom hee ſhould ioyne in prayer and faſting, for the helpe of his children.</p>
+               <p>He procured alſo the ſaide Hartley the Witch to come before him, whom hee ſo ſharplie reprooved, that the children had better reſt for ſome 3 weekes after.</p>
+               <p>But then they began their accuſtomed fittes: firſt Iohn Starkie about the 4 of Ia<g ref="char:EOLhyphen"/>nuarie 96. as he was reading of a booke, ſomething gaue him ſuch a thumpe in the necke, that he was ſuddenly ſtriken down with a moſt horrible ſkrike, and ſaid that Satan had broken his necke, lying there pitifullie tormented for the ſpace of two houres.</p>
+               <p>At night on the ſame day being in bed, he leapt out on a ſuddaine with ſuch a ter<g ref="char:EOLhyphen"/>rible outcry, that amazed them all, being toſſed and tumbled a long time, being ex<g ref="char:EOLhyphen"/>ceeding fierce and ſtrong like a mad man, or rather like a madd dogge, that I may ſo ſpeake, ſnatching at and biring euerie bo<g ref="char:EOLhyphen"/>die that laide hold on him, not ſparing in that fit<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> his owne mother: ſm<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing furi<g ref="char:EOLhyphen"/>ouſly all that came neare him, hu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ling the
+<pb n="16" facs="tcp:184106:9"/>bed ſtaues at their heades, and throwing the pillowes into the fire.</p>
+               <p>His ſiſter Anne likewiſe beganne again to be troubled, &amp; three other yong girles in the houſe, of whom Mai. Starkie had the education, with their portions com<g ref="char:EOLhyphen"/>mitted vnto him by their pare<g ref="char:cmbAbbrStroke">̄</g>ts. The firſt was Margret Hurdman of 14 yeares age: the ſecond Ellinor her ſiſter of 10 yeares: the third Ellen Holland of 12 yeares, theſe all had many ſtrange and ſore fittes being poſſeſſed by this witches meanes: His ma<g ref="char:EOLhyphen"/>ner was when he ment them a miſchiefe, then he would kiſſe them if he could, and therewith breathe the Devil into their bo<g ref="char:EOLhyphen"/>dies: he kiſſed Iohn Starkie, and all the maydes that were poſſeſt, Margret Byrom, Iane Aſhton, &amp; all: he ſtrugled much with one Ioan Smith to haue kiſſed her, but with much a doe ſhe eſcaped his handes, ſo that of all the maide ſeruants, ſhe onely was preſerued and not once troubled at al. Wherevpon Ellinor ſaid in one of her fits, that if Edmond had kiſſed her, three men could not haue held her.</p>
+               <p>Margret Byrom of 33 yeares, a kinſ<g ref="char:EOLhyphen"/>woman to Miſtres Starky, comming to. Cleworth to ſee her friendes, in her conti<g ref="char:EOLhyphen"/>nuance there beganne to be troubled like
+<pb n="17" facs="tcp:184106:9"/>the reſt, &amp; by the ſame meanes; for Hart<g ref="char:EOLhyphen"/>ley the Witch beeing in a ſore fitt in the night, ſhe in a deſire to comfort him, went into his chamber and ſat down by his bed ſide, and beganne to ſpeake vnto him, and it was not long before he roſe vp, and ſit<g ref="char:EOLhyphen"/>ting vppon his bed, hee leaned his heade downe to the maide who ſatt iuſt vnder<g ref="char:EOLhyphen"/>neath him, wherevpon ſhe was ſuddenlie taken that ſhee could neither ſtande nor ſpeake; when ſhe endevoured to ariſe, ſhe could not; when others held her vp, ſhee ſunke downe &amp; became ſenceles: but Ed<g ref="char:EOLhyphen"/>mond the Witch lefte her and went to another rowme, and he had no moe fittes after while he was at Cleworth, though he had divers before he met with this maide.</p>
+               <p>Iane Aſhton of the age of xxx yeres, be<g ref="char:EOLhyphen"/>ing the laſt that was poſſeſt, confeſſed, that once croſſing of Edmond, hee tolde her, ſhe had beſt be content, or ells hee would anger the beſt vaine in her harte: at other times ſhe ſaid, he offered great kindnes &amp; large promiſſes in the way of mariage, and had kiſſed her alſo: the like loving affe<g ref="char:EOLhyphen"/>ctions he ſometimes ſhewed to Margret By<g ref="char:EOLhyphen"/>rom, as ſhe confeſſed, and had kiſſed her alſo as it was thought.</p>
+               <p>About the 14 of lanuarie, the 5 yongeſt
+<pb n="18" facs="tcp:184106:10"/>ſort began the renewing of their ſtraunge fitts, entring ordinarilie thereinto by a ve<g ref="char:EOLhyphen"/>rie ſuddaine and fearfull skriking, bar<g ref="char:EOLhyphen"/>king &amp; howling, in ſuch a hideous noyſe, as can not be expreſſed.</p>
+               <p>Shortlie after this time, Margret Byrom haſted homeward to her mothers houſe at Salford neare Mancheſter, hoping to finde ſome more eaſe and releaſe from her fittes then ſhe did at Cleworth: ſhee taking her leaue, Edmond the witch ſaide he would goe with her home though he never came again, ſo ſhe went accompanied with him and another: in the way being 7 miles, ſhe had 10 fittes: when ſhe was recouered, ſhe deſired Edmond to tell her how ſhe might be holpen; he tolde her plainlie, that both ſhe and the reſt were paſt his handes, and that no one man could do them any good, it was too great a worke, but they muſt be 3, or 2 at the leaſt with feruent and hartie prayer.</p>
+               <p>After ſhe came home, her fittes doubled and ſtill encreaſed, Edmond came to her euery day: ſo ſoone as ſhe ſaw him ſhe fell ſtraight into a fitt, and therein ſorer hand<g ref="char:EOLhyphen"/>led then euer ſhe was before. There came in diuers to ſee her, and ſome Preachers, who founde Edmond with her, and ſuſpe<g ref="char:EOLhyphen"/>cting
+<pb n="19" facs="tcp:184106:10"/>him by ſome ſignes, aſked himwhat he did with the maid, he ſaid that he came to pray with her. Pray! quoth one, why man thou canſt not pray: yes but I can, quoth he: ſay then the Lords prayer, ſaide the Preacher: and he began to fumble a<g ref="char:EOLhyphen"/>bout it verie ilfavouredlie; but could not for his life ſay it to the ende. They then thought him to be a witch, &amp; cauſed him preſentlie to be apprehe<g ref="char:cmbAbbrStroke">̄</g>ded, and brought before 2 Iuſtices of peace, where hee was examined, and after diuers witneſſes had come againſt him, the Iuſtices ſent him backe to Margret Byrom, that ſhe might accuſe him to his face; but ſo ſoone as ſhe ſaw him, ſtraightway ſhe fell down back<g ref="char:EOLhyphen"/>wards and became ſpeechles, this was try<g ref="char:EOLhyphen"/>ed the ſecond time, yea 5 times was hee brought to her, &amp; ſhe was euer caſt down, and ſtriken dumbe, ſo that ſhee could not ſpeake one word againſt him.</p>
+               <p>Yet when he was taken away, and ſet be<g ref="char:EOLhyphen"/>hinde the backes of the people, ſhee reco<g ref="char:EOLhyphen"/>uered her ſelf, began to ſpeake to him, &amp; to charge him with many thinges, vppon which accuſations of hers, &amp; many other teſtimonies taken againſt him for witche<g ref="char:EOLhyphen"/>rie, he was by the Iuſtices ſent to Lancaſter Iayle. In the way thitherward, he came by
+<pb n="20" facs="tcp:184106:11"/>Cleworth to fetch his clothes to carrie with him: the 2 of Februarie 1597. and all the children ſeeming to be well before he came, preſently they fell into verie violent and outragious fittes; they made at him al at once, offring to ſtrike him; It was much a doe for two ſtrong men to hold the leaſt of them; and if they had not bene forcibly reſtrayned, the witch had bene in great daunger, for they were ſo fierce and furi<g ref="char:EOLhyphen"/>ous againſt him, as if they would haue pulled him in pieces.</p>
+               <p>After this, about y<hi rend="sup">e</hi> beginning of March, when Ma. <hi>Hopwood</hi> Iuſtice of peace came of purpoſe to take the teſtimonie of theſe 5 children againſt Edmonde the witch, to carrie to Lancaſter at the Aſſiſes to further his inditement, the<g ref="char:cmbAbbrStroke">̄</g> theſe 5 euerie one be<g ref="char:EOLhyphen"/>came ſpeachles, and beeing called for one after another, they fell and ſunke downe by the way, not being able to goe, nor to ſtande, nor ſpeake one word. After the Iu<g ref="char:EOLhyphen"/>ſtice was gone, they complayned that Ed<g ref="char:EOLhyphen"/>mond had ſtopt their mouthes, &amp; would not ſuffer them to ſpeake.</p>
+               <p>At the ſame time Iane Aſhton began to howle, and to barke, when ſhee ſhould be brought in for a witnes againſt Edmond, wherevpon one of the yonger girles ſaide
+<pb n="21" facs="tcp:184106:11"/>then in her fitt: Ah Edmond, doeſt thou trouble her now, when ſhee ſhould teſtifie againſt thee.</p>
+               <p>Margret Byrom alſo two nightes before her examination againſt Edmond, had di<g ref="char:EOLhyphen"/>uers apparitions, wherin ſhe was ſore ter<g ref="char:EOLhyphen"/>rified by the Deuill in Edmonds likenes, charging her deepely to take heede what ſhe ſaid againſt him, for now the time was come.</p>
+               <p>And when the Aſſiſes came, Edmonde was brought forth, arraigned, and convi<g ref="char:EOLhyphen"/>cted: Mai. Starkie having charged him with bewitching his children, which hee proved ſufficientlie, &amp; made it evident to the whole bench: howbeit (for that) they could finde no law to hange him, where<g ref="char:EOLhyphen"/>vpon M. Starkie called to minde the ma<g ref="char:EOLhyphen"/>king of the circle (whereof we haue alrea<g ref="char:EOLhyphen"/>die ſpoken) which being deliuered vpon his oath, was receyued. Yet Edmond ſtif<g ref="char:EOLhyphen"/>lie denied it, and ſtoode out againſt him, and tolde him to his face, that hee ſhould not hang him, let him doe what he could, (for the Devill had promiſed him, that no halter ſhould hange him) yet the Iurie caſt him; the Iudge co<g ref="char:cmbAbbrStroke">̄</g>demned him, Hart<g ref="char:EOLhyphen"/>ley was hanged &amp; the halter brake, wher<g ref="char:EOLhyphen"/>vpon he penitentlie confeſſed, that he had
+<pb n="22" facs="tcp:184106:12"/>deſerued that puniſhment, and that all which M. Starkie had charged him with, was true, and ſo he was hanged out the ſecond time.</p>
+               <p>Now this being ſo, as you haue heard, howe deteſtable then is that Diſcouerie which is come out, fraught with ſo manie fraudulent accuſations againſt this cauſe, ſpecially charging theſe 7 perſons to be al counterfaits, &amp; that M. Darrel had taught them that deceitfull trade, coupling mee equallie with him in that craftie iuglinge (as they call it,) making vs bewitching mates, and ioint companions, working to<g ref="char:EOLhyphen"/>gether in that couſinage. Againſt which infamous ſclaunder, that which hitherto hath bene obſerved, is ſufficient to cleare vs. For herein wee haue ſeene the parties proved to be bewitched. Seco<g ref="char:cmbAbbrStroke">̄</g>dly the par<g ref="char:EOLhyphen"/>ties bewitching every one of them. Third lie, the cauſes therof mentioned in the be<g ref="char:EOLhyphen"/>ginning. Fourthly, diuerſe &amp; ſundry wit<g ref="char:EOLhyphen"/>neſſes. Fiftly, his apprehe<g ref="char:cmbAbbrStroke">̄</g>ding, examining, impriſoning, indighting, condemning, &amp; executing, are vpon recorde. Moreover, the Iurie, the Iudge, and the Bench, toge<g ref="char:EOLhyphen"/>ther with the whole Aſſiſes holde<g ref="char:cmbAbbrStroke">̄</g> at Lan<g ref="char:EOLhyphen"/>caſter, about the 6 of March Anno 1597: doe all beare witnes to our innocency and
+<pb n="23" facs="tcp:184106:12"/>doe iuſtifie vs to be iuſte men, concerning this matter, and with greate indignation, doe deteſt and defie all detecting diſcoue<g ref="char:EOLhyphen"/>ries to the contrarie whatſoeuer: And laſt of all, that memorable execution of Ed<g ref="char:EOLhyphen"/>mond Hartley the coniurer &amp; witch, who was hanged with a witnes: the gallowes, the halter, and his dubble hanging, toge<g ref="char:EOLhyphen"/>ther with that laſt and famous confeſſion out of his owne mouth, that hee was the man that had done the deede, and onely guiltie of bewitching theſe 7 ſeuerall par<g ref="char:EOLhyphen"/>ties, and of ſending evill ſpirits into them. This famous champion doth chaleng this diſcouerer to bee but a deceivable detra<g ref="char:EOLhyphen"/>ctour, and a falſe accuſer of the brethren: And is alſo moſt ſufficient to cleare vs in this matter, againſt all Atheiſtes and Papiſtes, and the whole worlde. And thus much ſhal ſuffice for the firſt point.</p>
+            </div>
+            <div n="2" type="part">
+               <pb n="24" facs="tcp:184106:13"/>
+               <head>The ſecond part.</head>
+               <p>THe ſecond thing that muſt bee cleared in this Diſcourſe, is the poſſeſſion of theſe 7 perſons, to which purpoſel wil pro<g ref="char:EOLunhyphen"/>ceede to ſhew the ſtraunge ſignes acted by euery one of the<g ref="char:cmbAbbrStroke">̄</g> in particular firſt, &amp; after co<g ref="char:cmbAbbrStroke">̄</g>tract them more briefly in the general, by which I hope it will appeare to the in<g ref="char:EOLhyphen"/>different Reader, that ſuch great thinges were done by the<g ref="char:cmbAbbrStroke">̄</g>, as be very harde &amp; vn<g ref="char:EOLhyphen"/>vſual quite beyond the nature of things, &amp; ſuch as neither by arte, nor any humaine skil could be cou<g ref="char:cmbAbbrStroke">̄</g>terfaited: that as the firſt part of this Diſcourſe hath cleared vs from counterfaiting; ſo this may be ſufficient to prove the truth of their poſſeſſion, con<g ref="char:EOLhyphen"/>trarie to that overbolde, &amp; confident con<g ref="char:EOLhyphen"/>futation made by the diſcouerer, who la<g ref="char:EOLhyphen"/>boreth both toth and nayle, to croſſe and contradict the ſame.</p>
+               <p>Friſt Iohn Starkie ſonne and heire of M. Nicholas Starkie, among ſundrie fitts had ſome very rare and ſtrang, wherein he ſhewed very extraordinary knowledge, for he being but of the age of 12 yeres, or there abouts, did in his traunce declare the
+<pb n="25" facs="tcp:184106:13"/>ſtraunge ſinnes of this land committed in all eſtates &amp; degrees of people, denounced the fearfull iudgements of God due vnto them. He the<g ref="char:cmbAbbrStroke">̄</g> exhorted his parents, &amp; the people there preſent to repent, that they might avoide all thoſe grievous plagues, and wiſhed that all the whole land might doe the like. After this hee made a moſt excelle<g ref="char:cmbAbbrStroke">̄</g>t prayer, firſt for the whole church, then for the Queenes Maieſtie for the ſub<g ref="char:EOLhyphen"/>duing of her enemies, for the continuance of her life, and peaceable governement, for the vpholding of the Goſpell, and for all the true Miniſters of Chriſte, for thoſe that haue Authoritie, for his parents, and all the people of God. In this exhortation &amp; prayer, he continued aboue two houres performing the ſame ſo excellently both for the matter and maner of handling and vttering the ſame, as they that heard it did admire it, &amp; thought that a good preacher could very hardly haue done the like, this being done, he ſunge a good peece of the 4 Pſalme in a moſt ſweete and heavenly tune, as ever might be heard. All this was done in a traunce, his eyes being cloſed vp, &amp; neither knew what he ſaid nor did; In this longe and continued ſpeach, his father wiſhed him to lie ſtil, &amp; to ſpeak no
+<pb n="26" facs="tcp:184106:14"/>more: ſaying vnto him, ſonne, thou mar<g ref="char:EOLhyphen"/>reſt thy head, and canſt not tell what thou ſayeſt: yes father, quoth hee, I know well what I ſay: then ſaid his father, thou canſt tel me how many perſons be in this cham<g ref="char:EOLhyphen"/>ber and what bee their names: therevpon he reckoned them, and told the names of euery one of them, to the number of 18 or 19 his eyes being cloſe ſhut vp, as they had bene all the morning before, the neigh<g ref="char:EOLhyphen"/>bours, and ſome ſtraungers hauing come in after he begunne his fitt, and in the end he ſaid vnto his father, there is now one of your Tenau<g ref="char:cmbAbbrStroke">̄</g>ts newly come into the cham<g ref="char:EOLhyphen"/>ber, he told him his name, &amp; that he dwelt farre of in the peak, let him come ſaid he, and take me by the hand, and I ſhal ſee &amp; be well for this time, &amp; ſo it came to paſſe, at which they all marveilled, and asked him whether he remembred what he had ſaid all that long time: and he denied flat<g ref="char:EOLhyphen"/>lie, that he had ſpoken any thing at all.</p>
+               <p>Secondly, Margret Hurdma<g ref="char:cmbAbbrStroke">̄</g>, of the age of xiij. yeres, being in a trau<g ref="char:cmbAbbrStroke">̄</g>ce of 3 houres long, and poſſeſſed at that time, as it ſee<g ref="char:EOLhyphen"/>med, with a ſpirit of pride, did moſt liuely expreſſe both by wordes and geſtures, the proud women of our times: who can not co<g ref="char:cmbAbbrStroke">̄</g>tent themſelues with any ſober or mo<g ref="char:EOLhyphen"/>deſt
+<pb n="27" facs="tcp:184106:14"/>attire, but are euer readie to followe euery newe and diſguiſed faſhion, and yet neuer thinke them ſelues fine enough: wherevpon ſhe ſaide, come on my lad, for ſo ſhee called the ſpirit that ſtoode before her in that likenes, to teach her all the trickes of pride, come on and ſet my part<g ref="char:EOLhyphen"/>let on the one ſide as I doe on the other: and as ſhe was a ſetting of it, ſhe ſaid vnto him, thus, my lad, I wil haue a fine ſmock of ſilke, it ſhalbe finer then thine. I will haue a peticote of ſilke, not of redd, but of the beſt ſilke that is: it ſhalbe garded a foote high; it ſhalbe laide on with golde lace; it ſhall haue a french bodie, not of Whalebone, for that is not ſtiffe inough, but of horne, for that will holde it our; it ſhal come low before, to keepe in my bel<g ref="char:EOLhyphen"/>lie: my lad, I will haue a French fardin<g ref="char:EOLhyphen"/>gale, it ſhalbe finer then thine; I will haue it low before and high behinde, &amp; broad on eyther ſide, that I may lay my armes vpon it. My lad, thy gowne is crimſon ſat<g ref="char:EOLhyphen"/>ten, but mine ſhalbe of blacke wrought velvet, it ſhalbe finer the<g ref="char:cmbAbbrStroke">̄</g> thine, I will haue my ſleeues ſet out with wire, for ſticks wil breake, and are not ſtiffe inough. I will haue my perwincle ſo fine, finer the<g ref="char:cmbAbbrStroke">̄</g> thine. I will haue my cappe of black velvet with
+<pb n="28" facs="tcp:184106:15"/>a feather in it, with ſlewes of gold, and my hayres ſhalbe ſett with pearles, finer then thine. I will haue my partlet ſet with a re<g ref="char:EOLhyphen"/>bater, and ſtarcht with blew ſtarch, &amp; pin<g ref="char:EOLhyphen"/>ned with a rowe or twoo of pinnes. With this ſhe ſnatched the partlet fro<g ref="char:cmbAbbrStroke">̄</g> her necke and threw at him, ſaying: Take it thou, for I can not make it ſo fine as thine. I pray thee come and helpe me to ſet it as fine as thine. My ladde, I will have a buſke of Whale-bone, it ſhalbe tyed with two ſilke points, and I will haue a drawen wrought ſtomacher imboſte with golde, &amp; a girdle of golde finer then thine. I will haue my hoſe of orenge colour, this is in requeſt, &amp; my corke ſhoes of redd ſpaniſh leather, fi<g ref="char:EOLhyphen"/>ner then thine. I will haue a ſkarfe of red ſilke, with a gold lace about the edge. I will haue a fanne, with a ſilver ſteale and a glaſſe ſett in it, finer then thine. My lad, thou muſt bring me a paire of gloues of the fineſt leather, that may be, with twoo gold laces about the thumbe, and a fringe on the toppe with flewes and red ſilke vn<g ref="char:EOLhyphen"/>derneath, that I may draw them through a gold ringe, or els I will none of them.</p>
+               <p>My lad, I will haue my baſine and ewer of ſiluer, and my towel of ſilke, finer then thine: I will haue my gelding and ſaddle
+<pb n="29" facs="tcp:184106:15"/>and furniture fitte, my footſtoole alſo fine and braue, or els I will not ride, I wil haue my cloake and ſavegarde laide with lace moſt fine and braue, and finer then thine, and preſentlie after this, ſhe ſaide, I defye thee Satan and thy pride, for this is thy il<g ref="char:EOLhyphen"/>luſion and deceite, I will none of it, and then reverting ſaide, Ieſus bleſſe me, but remembred nothing that ſhee had eyther ſaide or done.</p>
+               <p>At another time in her fitt ſhee went to the maides as they were waſhing of cloa<g ref="char:EOLhyphen"/>thes, and beganne to waſh with them, and though they were two luſtie women, and ſhe but a yong girle, yet ſhee waſht more for the ſpace of an hower ſo quicke and ſo fine, that they could not come neare her.</p>
+               <p>The; is Margret Byron, of whom there be many things worthie to bee obſerued: Shee being at Mai. Starkies houſe about the ende of Ianuary, was for the ſpace of a whole day and a night grievouſlie mole<g ref="char:EOLhyphen"/>ſted &amp; ſore frighted with a terrible viſion which appeared vnto her lying in bedde, (ſwelling &amp; tumbling) like a fowle black dwarfe, with halfe a face, longe ſhagged haire, blacke broad handes, &amp; blacke clo<g ref="char:EOLhyphen"/>ven feete; ſhe ever fearing leaſt he came to carrie her away: and when ſhee began to
+<pb n="30" facs="tcp:184106:16"/>pray, he threatned that if ſhe did pray, he would carrie her away: ſhee was in ſuch a ſtraite, that ſhe knew notwhat to do, whe<g ref="char:EOLhyphen"/>ther to pray or not to pray: yet in the ende ſhee reſolved that ſhee would pray to the Lord, for her helpe was onely in him, who indeed gaue her ſtrength and courage to call earneſtly vnto him; preſenthe Sathan remoued and vaniſhed away.</p>
+               <p>At her mothers houſe at Salforde, ſixe times within 6 weekes Sathan ſought to pine her, in not ſuffering her to eate nor drinke for diuers dayes togither: and if at the earneſt requeſt of her friendes ſhee did offer to drinke, he would caſt both her &amp; the drinke downe togither. And againe at other times ſhee would eate vp all, were it neuer ſo much: with ſuch ſnatching and greedines, like a hungrie d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gge: all was fiſhe that came to net; ſhe ſpared nothing, deuouring all that came, and yet ſtill cry<g ref="char:EOLhyphen"/>ing that ſhe had nothing: ſhe thought ſhe could haue eaten vp halfe a calfe: and yet after that great abundance of meate and drinke, her bellie ſeemed as emptie as at the firſt, ſo that they all wondered at that which ſhe had eaten, and marveiled alſo which way it went.</p>
+               <p>Sometimes alſo the ſpirit would appeare
+<pb n="31" facs="tcp:184106:16"/>vnto her in the likenes of a great blacke dog, with ope<g ref="char:cmbAbbrStroke">̄</g>mouth, &amp; the greateſtchaine that euer ſhe ſaw, beeing verie thicke and longe, drawing it after him, wherewith he did croſſe her, and tooke her legges from vnder her; ſhee had little reſt for the ſpace of 6 weekes, eyther day or night: yea ina<g ref="char:EOLhyphen"/>nie times when the people ſtood round a<g ref="char:EOLhyphen"/>bout her, ſhe was taken ſuddenlie and vi<g ref="char:EOLhyphen"/>olentlie caſt headlong ſometimes vnder the bed, ſometimes vnder the cofers, and ſometimes throwen to the barres of the fire, and there aid as if Satan m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nt to roſt her. When ſhe ſat vpon a ſtoole, he would ſuddenlie throwe het quite back warde, as if he ment to haue broken her necke.</p>
+               <p>After this he appeared in <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e likenes of a big black Cat, with very fen<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>full broad eyes, which came ſtaring her in the face, ru<g ref="char:cmbAbbrStroke">̄</g>ning by her and about her, and chrow<g ref="char:EOLhyphen"/>ing her downe, and leaving her ſenſeles, departed. And about halfe an houre after that fi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t, the ſpirit came like a big Mouſe, leaping vpon her knee, and caſt her down backwarde, as before, her ſences being ta<g ref="char:EOLhyphen"/>ken from her; her eyes cloſe ſhurt vp, her tongue pluckt duble into her throte, her mouth open, her chawes ſett, and all her whole body ſtretched out as ſtiffe as iron:
+<pb n="32" facs="tcp:184106:17"/>And thus ſhe lay many times for the ſpaed of an houre as a ſpectacle very fearfull to beholde.</p>
+               <p>It was vſuall alſo with the ſpirit to come vnto her in the night in the likenes of a blacke man with half a face, which tooke her iuſt as ſhe was going to bed, &amp; would be ſure to picke her backwarde: and ſhee being recovered and got into her bed, it would come and ſit vpon the toppe of her head, holding his 4 fingers vpon her fore<g ref="char:EOLhyphen"/>head very heavie, holding her very ſtrait, that ſhe could not ſee nor ſtirre, yet for all that was her kirchefe and headgeare pul<g ref="char:EOLhyphen"/>led of, and though they had tyed it vp, and bound it on very faſt, yet ſuddenly in a moment he pluckt all a ſunder, and her hayre that was ſo faſt tyed vp, was broken looſe, and brought about her eares, and this was tryed twice or thrice in a night, that when they had done the beſt they could to keepe it on, yet in the twinke of an eye, it was all vndone, he marred their worke in that point, and they loſt all their labour: and ever when he tooke his leaue and departed, his maner was to give her great thumpe on the hinder part of her heade, inſomuch that with thoſe thumpes ſhe felt her head ſore a good while after.
+<pb n="33" facs="tcp:184106:17"/>She at another time, learned; verie excel<g ref="char:EOLhyphen"/>lent graces by the apparition &amp; inſtructi<g ref="char:EOLhyphen"/>on of the ſpirit: ſhe neuer could read, nor euer heard the before in all her life, as ſhe proteſted, yet ſhe learned them vppon the ſuddaine, and did rehearſe them all three verie perfectlie, and ſo it is like ſhe can do till tis day.</p>
+               <p>About the 10 of Febrn. &amp; at ſome other times before, ſhe felt (as ſhe thought) ſome great thing rowle vp &amp; downe in her bel<g ref="char:EOLhyphen"/>lie, like a calfe; it prickt as if the head and noſe thereof had bene full of nayles (as ſhe thought) wherwith being ſore payned ſhe was compelled to skrike, ſhee was excee<g ref="char:EOLhyphen"/>dingly ſwolne by it, &amp; ſomtimes it pulled her as ſhe thought in a hundred peeces, it made a loude noyſe in her bellie, like that in the bellie of a great trotting horſe; it cauſed her to barke and houle: then it would plumpe downe into her bodie, like a cold long whetſtone on her left ſide, wherevpon the reſt of her bodie was be<g ref="char:EOLhyphen"/>numed with an extreame colde, wherewith ſhe fell a quaking, her teeth alſo chatte<g ref="char:EOLhyphen"/>ring in her head, and if then ſhe offered to warme her ſelf at the fire, ſhe was preſent<g ref="char:EOLhyphen"/>ly picked backward; after theſe fitts her breath ſtanke ſo ill, that her neighbours
+<pb n="34" facs="tcp:184106:18"/>came not neare her for the ſpace of a day and a night, yea it was ſo exceeding noy<g ref="char:EOLhyphen"/>ſome that after the fitt, ſhe her ſelf could perceiue it &amp; could very hardly endure it.</p>
+               <p>Further to finiſhe this particular, ſix ſe<g ref="char:EOLhyphen"/>uerall times in her fits at Cleworth, euery time ſix ſpirits appeared to her: 5 of them very black, fowler then blackmores, mar<g ref="char:EOLhyphen"/>veylous vglie to beholde: theſe ſhe <gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ei<g ref="char:EOLhyphen"/>ued ſhoueing and thruſting into her great nayles to torment her (as ſhee thought) wringing and bending of her, as if they would breake her backe bone: the other ſpirite was in her eyes, like a very faire litle childe, ſo fine and comely as ever might be ſeen, (which ſhe ſaid) ſat euer next her, &amp; would ſay vnto her, feare not, for thou ſhalt haue no harme: and for that it was ſo amiable, ſhe was euer catching &amp; coueting to take it, but her hand being ſtayed by ſome that ſtood by, ſtraight ſhe was ſorer troubled, and fell a toſſing and tumbling, as at other times.</p>
+               <p>Ellen Holland and Ellinor Hurdman, the one being 10, the other 12 yeares of age, were both of them (by the malice of Satan) kept faſting for the ſpace of 3 dayes and 3 nights, for ſo long time they remay<g ref="char:EOLhyphen"/>ned ſenceles, &amp; did neither eat nor drink
+<pb n="35" facs="tcp:184106:18"/>any thing: wherein hee laboured they might both of them periſh and pine away. And when the third night was come, Eilen Hollande called for the houre glaſſe, and tolde them, ſhee muſt now haue a fitt, and muſt not come out of it for the ſpace of foure houres, ſhee then called for a diſtaffe and a ſpindle, &amp; bad them turne the glaſſe, for thee would ſpinne an houre and a halfe of that time. And though ſhee was but a child, &amp; as it were but beginning to learne to ſpinne, yet ſhe did it at that time ſo fine<g ref="char:EOLhyphen"/>lie &amp; with ſuch expedition, as was thought impoſſible for a verie skilful woman to do the like, and gaue ouer iuſt at the ende of the appointed time, and then had ſhe moſt cruell and terrible fittes, till the glaſſe had runne out the reſt of the time, and reverted iuſt at the foure houres end, as before ſhee had ſaid: but what ſhee had ſaid or done in all this time, that ſhe remembred not.</p>
+               <p>Likewiſe Ellinor Hurdman tolde them that ſhe muſt haue a fit of 3 houres longe, ſhee called for the houre glaſſe, bad them turne it and marke it well, ſhee preſenthe with the turning of the glaſſe fell into a traunce, her eyes cloſe ſhut vp, and her face turned quite from the glaſſe, the other way: Notwithſtanding ſhee meaſured the
+<pb n="36" facs="tcp:184106:19"/>time moſt diſtinctly as the glaſſe did runne deviding the houre into 4 quarters, by very iuſt &amp; equall proportions, according as it was moſt duelie obſerued, ſhe recko<g ref="char:EOLhyphen"/>nod it her ſelfe, and named euery quarter as it had runne out: ſaying thus, a quarter runne, half houre runne, 3 quarters runne, and the fourth time, turne the glaſſe: euen iuſt when it had runne out; and ſo did ſhe the ſecond time and miſſed not; and the 3 likewiſe till it was out, and then iuſt with the very time ſhe reverted and ſaide, Ieſus bleſſe me, &amp; ſo was reſtored for that tyme. Among all the ſtrange thinges acted by them, there was none better marked then this, it was done in the day, in the preſence of many witneſſes, M. Starkie himſelf the man that did chieflie obſerue it, and to the beſt ayme he could giue, the quarters were moſt equally deuided, and the proportion moſt iuſt in the meaſure: At which they all marueiled greatly, and could not chuſe but impute this ſupernaturall skill to the work of Satan, who aſwell by his ſtraung and cunning ſuggeſtions, as by other en<g ref="char:EOLhyphen"/>forced ſignes, doth make it evident, that that working ſubiect is in his power, and poſſeſſion.</p>
+               <p>Furthermore Iohn Starkie, Anne Star<g ref="char:EOLhyphen"/>kie,
+<pb n="37" facs="tcp:184106:19"/>Ellen Holland, and Ellinor Hurdman, theſe 4 had the vſe of their legges taken from them, for the ſpace of 7 houres, and being ſo, all that time, they went vpo<g ref="char:cmbAbbrStroke">̄</g> their hands and their knees onely, out of one chamber into an other, and that as faſt, as if they had had the vſe of their feete: they could reſt in no place, but went without ceaſing all that while, they could leape vp from the flore to the bed, &amp; down fro<g ref="char:cmbAbbrStroke">̄</g> the bed to the flore, hopping ſo vp and downe, as lightlie, like froggs, and ſo continued for the ſpace of 7 houres, at the leaſt.</p>
+               <p>This time being out, they were reſtored to the vſe of their feete, but yet ſtill remai<g ref="char:EOLhyphen"/>ned both ſenceleſſe &amp; ſpeachles, in which caſe they all 4 went into the garden, and forthwith euery one of them gathered one leafe of euery kinde of hearbe that grew therein, from the greateſt to the leaſt, they miſſed not one even to the very graſſe: which being done, they came againe into the houſe, and then they went firſt into the hall, then into the parlour, and then into every chamber in the houſe, excep<g ref="char:EOLhyphen"/>ting one which was lockt, &amp; there in the windowes of theſe ſeuerall rowmes, euery one of them laid downe one leaf, of the ſame kind of hearbe which they had ga<g ref="char:EOLhyphen"/>thered,
+<pb n="38" facs="tcp:184106:20"/>for looke where any one of them did lay downe one, there all the reſt would lay downe another of the ſame ſort, and no moe nor no other.</p>
+               <p>Now marke the ſtraungnes of this acte, which howſoeuer it ſeeme in it ſelf to be but a trifle, yet in the trial of it, it wil proue a wonder, if the circumſtances bee duely co<g ref="char:cmbAbbrStroke">̄</g>ſidered: for firſt, the herbes were many, ſeeing the garden is large. Secondly, the rowmes were many, for it is a gentlemans houſe, and it is of good receipte. Thirdly, they were 4, and they were but children, the eldeſt was not aboue 12 yeares olde, &amp; yet that they ſhould gather of euery ſort, one leafe only and no more. Fourthly, that the hearbes being mingled altogether in their hands, yet that euery one did moſt quicklie, &amp; readilie, without any ſearching at all, lay down the right hearbe, ſo that in euery place there where euer 4 iuſt of one and the ſame kind. Laſtly, and that which is the chiefeſt of all, that all this (as was duely obſerued) was done and diſpatched within leſſe then one houre, in ſo diuers rowmes and ſundry places, yea vpon the ſtayres and threſholds of theſe rowmes, &amp; in their own chamber where they lay the<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>ſelues, not only in euery window, but a<g ref="char:EOLhyphen"/>gainſt
+<pb n="39" facs="tcp:184106:20"/>euery ſtaunch of the windowe were theſe herbes thus laid downe in maner a<g ref="char:EOLhyphen"/>foreſaid.</p>
+               <p>This was ſearched &amp; found to be thus ſpeedly and exactly done, as is abouſeaid, which thing if it ſhould haue bene perfor<g ref="char:EOLhyphen"/>med by other 4 of good diſcretion, the cir<g ref="char:EOLhyphen"/>cumſtances conſidered, it would haue bin the work of a whole day, &amp; yet not ſo excel<g ref="char:EOLhyphen"/>lently performed, as it was by theſe: which when they did it, were all out of their right mindes, not knowing at all what they did, in ſo much that when they came out of their traunce, they merveiled where they had bene, &amp; could not be perſwaded that they had done this ſtraunge thinge, though it was ſhewed vnto them by plaine demonſtration.</p>
+               <p>Theſe 4 alſo in another traunce, did daunce ſo finely, as if they had come out of the dauncing ſchole, one of the yongeſt playing with her mouth as cunningly for the preſent, as if ſhe had bene a minſtrell.</p>
+               <p>It was further obſerued, that in thoſe times when theſe were ſo ſubiect to haue their fits very often and very thicke, and to before vexed, and tormented, yet for all that if they went <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o cardes or othe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> games they were not troubled at all, during the
+<pb n="40" facs="tcp:184106:21"/>whole time of their playing and gaming and though they went from home being requeſted to a gentlemans houſe to heare a play, yet all that while, they were not troubled, nor one whitte diſquieted, but contrariwiſe if either ſcriptures were read, or prayers vſed for them, or exhortations applyed vnto them, then ordinarily they fell into their fitts, and were very fearfully tormented. Inſomuch that for the ſpace of two yeares or there-abouts, till they were deliuered, they neuer came to the church, only for feare to increaſe their torments.</p>
+               <p>Moreouer the 4 yongeſt girles being poſſeſt with ſcorning ſpirites in the day of their diſpoſſeſſion, and in the time of the laſt ſermon did ſhew the ſame: for when the word was applied vnto them, ſhewing what ſtraunge things Satan worketh in the children of diſobedience, as grining and gnaſhing of teeth, ſtaring with their eyes, making mowes with their lips, thruſting out their to<g ref="char:cmbAbbrStroke">̄</g>gues, &amp; drawing their mouths awrye very vgly, &amp;c. It is moſt certaine that as theſe particulars were named, one after another, ſo they all foure did in actio<g ref="char:cmbAbbrStroke">̄</g> anſwere the word of God which was ſpo<g ref="char:EOLhyphen"/>ken, ſhewing ſuch vnſemely geſtures, fear<g ref="char:EOLhyphen"/>full lookes, &amp; vglie cou<g ref="char:cmbAbbrStroke">̄</g>tenances in euery
+<pb n="41" facs="tcp:184106:21"/>particular, and in the very ſame inſtant &amp; point of time when they were named. And though not one of them did ſee what an<g ref="char:EOLhyphen"/>other did, yet for all that, they did iumpe ſo right in ſhewing and ſetting out theſe vnſeemly ſignes, as that it could verie hardly bee diſcerned, which of them all 4 was firſt or laſt in performing of the ſame. Further ſuch was the great and extraordi<g ref="char:EOLhyphen"/>nary ſtrength that were in theſe 4 in the time of their fitts, that though ſome of the<g ref="char:cmbAbbrStroke">̄</g> were but of the age of x or xj yeares, yet two or three ſtro<g ref="char:cmbAbbrStroke">̄</g>g men, could hardly hold one of them.</p>
+               <p>And that theſe two yongeſt and ſome of the reſt, though they were vnlearnd and neuer went to ſchole, yet in their fitts they were able to make anſwer to latin queſti<g ref="char:EOLhyphen"/>ons propounded vnto them, ſo truely and readily, as if they had ſoundly vnderſtood them. And herein were they tried ſundry times. And if now they ſhould be exami<g ref="char:EOLhyphen"/>ned therein, they can neither anſwer nor vnderſtande one worde.</p>
+               <p>There be alſo many other very ſtrange things acted by euery one of theſe in par<g ref="char:EOLhyphen"/>ticular, which if they ſhould be ſet downe euery one, they would fill a large volume, for brevities ſake therfore the moſt things
+<pb n="42" facs="tcp:184106:22"/>be omitted. And this alſo is moſt certaine, that very many ſtraunge thinges, and as wonderfull as anie that heere haue bene ſpoken of, were loſt, and let ſlippe for want of heede, and good obſervation.</p>
+               <p>Nowe it is worthie to bee marked, that though theſe poſſeſſed perſons, had euery one, ſome thinges peculiar to them ſelues which none of the reſt did ſhew, and that ſo rare &amp; ſtraunge, that all the people were forced to confeſſe it was the worke of an euill ſpirite within them: ſo had they alſo many thinges in co<g ref="char:cmbAbbrStroke">̄</g>mon one with another, and were in their fittes for the moſt parte handled alike.</p>
+               <p n="1">1 They had all and euery one of them very ſtraunge viſions, and fearfull appariti<g ref="char:EOLhyphen"/>ons, wherevpon they would ſay: looke where Satan is: looke where Beelzebub is: looke where Lucifer is looke wher a great blacke dogge is, with a firebrand in his mouth: ſee how Satan runneth at me with a ſpeare in his hande to ſticke mee to the hart, but God will defend me.</p>
+               <p n="2">2 They had euery one of them two ſpi<g ref="char:EOLhyphen"/>rits at the leaſt, one to torment them in<g ref="char:EOLhyphen"/>wardly, with all the torments of hell, as i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> were, for the preſent, and eyther one o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> more to ſtand before their faces, moſt vgly
+<pb n="43" facs="tcp:184106:22"/>and terrible to beholde, to driue them into all feare and aſtoniſhment.</p>
+               <p n="3">3 They heard verie hideous and fearfull voices of the ſpirits ſundrie times, and did make marveillous aunſweres backe a<g ref="char:EOLhyphen"/>gaine vnto them verie directlie and ſtranglie.</p>
+               <p n="4">4 They were in their fittes ordinarilie holden in that captiuitie &amp; bondage, that for an houre, two, or three, &amp; longer time they ſhould neither ſee nor heare nor taſt, nor feele nothing but the Divells, they imploying them whollie for them ſelues, vexing and tormenting them ſo extream<g ref="char:EOLhyphen"/>lie, as that for the preſent they could feele no other paine or torture that could bee offered vnto them; no not though you ſhould plucke an eare from the head, or an arme from the bodie.</p>
+               <p n="5">5 They all of them were taken ſudden<g ref="char:EOLhyphen"/>lie, with a verie fearfull ſchriking, and a marveilous ſtraunge howling and ſhow<g ref="char:EOLhyphen"/>ting, making a noiſe, as it were to call on, and to waken one another, that ſo the ſpi<g ref="char:EOLhyphen"/>rites being raiſed vpp, might goe to their worke, and proceed to torment their ſub<g ref="char:EOLhyphen"/>iectes according to their cuſtome; when one beganne, they all followed after in or<g ref="char:EOLhyphen"/>der, obſerving time and tune, as it had bin
+<pb n="44" facs="tcp:184106:23"/>the ringing of vij. Bells, and ſuch was the ſtraungnes of theſe voyces, that the vtte<g ref="char:EOLhyphen"/>ring and framing of them, exceeded all cunning invention, or the skill of anie counterfaite imitation, and the effect alſo ſo fearfull, that it was both terrible and troubleſome to the whole Countrie, and wrought a wonderfull aſtoniſhment in all that heard it.</p>
+               <p n="6">6 Further they all of them had their bo<g ref="char:EOLhyphen"/>dies ſwolne to a wonderfull huge bignes, and almoſt incredible, if there had not bin many eye-witneſſes vnto it.</p>
+               <p n="7">7 They had alſo a marveilous ſore hea<g ref="char:EOLhyphen"/>ving and lifting, as if their heartes would burſt, ſo that with violent ſtrayning of the<g ref="char:cmbAbbrStroke">̄</g> ſelues, ſome of them vomited much bloud many times.</p>
+               <p n="8">8 They had their faces diſſigured, and turned towardes their backes, a fearfull thruſting out of their tougues with a moſt vglie diſtorting of their mouthes, being drawen vp, as it were vnto their eares.</p>
+               <p n="9">9 They were all of them verie fierce, offering violence both to them ſelves and others, wherein alſo they ſhewed verie great and extraordinarie ſtrength.</p>
+               <p n="10">10 They blaſphemed God, and the Bi<g ref="char:EOLhyphen"/>ble; they reviled the Preachers; rayled v<g ref="char:EOLhyphen"/>pon
+<pb n="45" facs="tcp:184106:23"/>ſuch as feared God; ſcorned all holy prayers, &amp; wholeſome exhortations, whi<g ref="char:EOLhyphen"/>che being offered and applied vnto them, they euer became much worſe.</p>
+               <p n="11">11 They for the moſt part delighted in filthie &amp; vnſavorie ſpeaches, verie aggtea<g ref="char:EOLhyphen"/>ble to the nature of that vncleane ſpirite which then dwelled within them; in ſo<g ref="char:EOLhyphen"/>much as in the verie ſermon time, when ſuch vnſeemelie behauiour was ſpoken a<g ref="char:EOLhyphen"/>gainſt, the evill ſpirit wrought moſt mali<g ref="char:EOLhyphen"/>tiouſly and ſpitefullie againſt the grace of God, and forced one of them (though ſhe was a maide) to vtter ope<g ref="char:cmbAbbrStroke">̄</g>lie in the hearing of the people, ſuch filthie vncleanes, as is not to be named.</p>
+               <p n="12">12 The moſt of them were both blinde, deafe, and dumbe, for diuers dayes togi<g ref="char:EOLhyphen"/>ther.</p>
+               <p n="13">13 They were out of their right mindes, without the vſe of the ſences, eſpeciallie voyde of feeling; as much ſence in a ſtock as in one of them: or as poſſible in a man<g ref="char:EOLhyphen"/>ner to quicken a dead man, as to alter or chaunge them in their traunces, or fittes, in any thing that they eyther ſaid or did.</p>
+               <p n="14">14 They were kept faſting a long time, and diuers of them for the ſpace of three dayes and 3 nightes, did neither eate, nor
+<pb n="46" facs="tcp:184106:24"/>drinke anie thing, Satan purpoſing there<g ref="char:EOLhyphen"/>by to procure their pining away.</p>
+               <p n="15">15 They in their fitts had diuers partes and members of their bodies ſo ſtiffe and ſtretched out, as were inflexible, or verie hard to be bended.</p>
+               <p n="16">16 They ſhewed very great and extraor<g ref="char:EOLhyphen"/>dinarie knowledge, as may appeare by the ſtrange things ſaid and done by them, ac<g ref="char:EOLhyphen"/>cording to that which we haue alreadie ſet downe in the particulars.</p>
+               <p n="17">17 They all in the ende of euerie ſit, ſaid euer thus <hi>IES<g ref="char:V">Ʋ</g>S bleſſe me,</hi> yea though they had 40 or a 100 fittes in one day, as it is certaine ſome of them had, yet they neuer miſſed to ſaye thus, but as ſure as they had a fitt, whether it were ſhort, or long, ſo ſure it was, that it ſhould bee en<g ref="char:EOLhyphen"/>ded, with this prayer, <hi>IES<g ref="char:V">Ʋ</g>S bleſſe me,</hi> this was euer a ſure ſigne, that they were reſtored to the vſe of their ſences for that time, which neuer failed.</p>
+               <p n="18">18 They euer after their fits, were as wel as might be, an felt verie little or no hurt at all; although they had bene neuer ſo ſore tormented immediatlie before.</p>
+               <p>Now this harmonie &amp; conſent in ſignes and actions, both for the matter &amp; maner of ſtrange handling of all theſe in their ſe<g ref="char:EOLhyphen"/>uerall
+<pb n="47" facs="tcp:184106:24"/>fits, doth make it evident, that they were all really and corporally poſſeſſed.</p>
+               <p>Notwithſtanding that is true, which is obiected, namely, that ſundry of theſe ſi<g ref="char:EOLhyphen"/>gnes, may be in one that is not poſſeſſed: for one may ſee very fearfull ſights, and ſtraung apparitions, and may be haunted with evil ſpirits, &amp; driuen into great feares and frights, and yet not be poſſeſſed.</p>
+               <p>Another may be both lame and blind, and dumbe and deafe.</p>
+               <p>The third may bee very fierce, offering violence, both to themſelues ond others.</p>
+               <p>The fourth may gnaſh and fome, and ſtare with his eyes, and fall downe fearful<g ref="char:EOLhyphen"/>lie, and ſuddenly, &amp; lye as if he were dead.</p>
+               <p>And ſo it may be ſaid of diuers others, whiche may manie other wayes bee verie ſtrangly handled, and yet not one of them truely poſſeſſed.</p>
+               <p>The reaſon is becauſe that when ſundry of theſe ſignes, are ſeuered from the reſt, and goe alone by them ſelues, or ells are found but two or three, or ſome few togi<g ref="char:EOLhyphen"/>ther, then ſuch ſignes may ariſe, as effects from ſome other workinge cauſe in the ſubiect, or from the immediate hande of God, or ſome other way.</p>
+               <p>But when all theſe ſignes ſhall concurre
+<pb n="48" facs="tcp:184106:25"/>and meete together in one man, or the moſt of theſe, being ioyned with any one acte aboue the power of nature, as ſuper<g ref="char:EOLhyphen"/>naturall knowledge, and extraordinarie ſtrength, or anie ſuch impoſſible worke, then if it ſhalbe examined, eyther accor<g ref="char:EOLhyphen"/>ding to the ſcriptures, or hiſtories, or rea<g ref="char:EOLhyphen"/>ſon it ſelfe, it will prooue a verie ſounde and corporall poſſeſſion: And ſo by conſe<g ref="char:EOLhyphen"/>quence the great varietie of ſtrange ſignes and ſupernaturall actes, performed by theſe 7. and ſhewed aſwell in everie particular, as in thoſe thinges which they had in common one with another, doth ea<g ref="char:EOLhyphen"/>ſilie conclude a verie true and ſound poſſeſſion.</p>
+            </div>
+            <div n="3" type="part">
+               <pb n="49" facs="tcp:184106:25"/>
+               <head>The third part.</head>
+               <p>The 3 part of this diſcourſe co<g ref="char:cmbAbbrStroke">̄</g>cernes our comming to Mai. Starkies houſe, &amp; the occaſion thereof, how we came to haue to deale with theſe 7 perſons; our entrance into, and our whole cariage in that action; whiche beeing truelie ſett downe, may ſerue to diſcharge vs of thoſe grievous calumniations co<g ref="char:cmbAbbrStroke">̄</g>tayned in the diſcouerie: charging vpo<g ref="char:cmbAbbrStroke">̄</g> vs both the names and practize of couſiners, juglers, exorciſtes, impoſters, &amp;c.</p>
+               <p>FIRST then the continuance of theſe troubles in Mai. Starkies houſe: the re<g ref="char:EOLhyphen"/>membrance of Doct. Dees cou<g ref="char:cmbAbbrStroke">̄</g>ſell, to ſend for ſome Preachers: the impriſoning of Edmond the Witch in Lancaſter Iayle: the hearing of the Boy of Burton, who being ſtrangelie afflicted, receyued helpe &amp; de<g ref="char:EOLhyphen"/>liuerance by M. Darrells adviſe: vpo<g ref="char:cmbAbbrStroke">̄</g> theſe occaſions, Mr. Starkie ſent for M. Darrell 3 ſeuerall times before he came, hee euer imparted the newes vnto the brethren as it came to his hand, becauſe he would at<g ref="char:EOLhyphen"/>tempt nothing in thoſe caſes without very
+<pb n="50" facs="tcp:184106:26"/>good adviſement, and lawfull conſent. In the end it was concluded, that hee ſhould goe: and thought fit, that I alſo ſhould go with him, as a companion in the iourney, and a witnes to all his proceedings accor<g ref="char:EOLhyphen"/>ding to his owne requeſt.</p>
+               <p>This being done, M. Darr: wrote his let<g ref="char:EOLhyphen"/>ter to M. Starkie, wherin he promiſed that aftter ſome preſent and important buſines was diſpatched, he would come, and viſite him; deſiring with all, the aſſiſtance of ſome faithful Miniſters about M. Starkie, eſpecially his Paſtour to ioyne with vs.</p>
+               <p>This letter M. Starkie reade in the pre<g ref="char:EOLhyphen"/>ſence of Iohn Starkie his ſonne, and ſome other: after which time, he, the ſaid Iohn, had no fit at all, till the day of our co<g ref="char:cmbAbbrStroke">̄</g>ming thither; the reſt had ſome little fitts, but not ſo grieuous as before: in which fitts they would ſay to the ſpirit, thou naughtie lad, thou makeſt vs ſicke, for thou knoweſt the Preachers will come ſhortlie.</p>
+               <p>So we hauing prepared our ſelues for this iourney, at the time appointed, wen<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> towards Lancaſhire, where we neuer came in our liues before. And vpon Wedneſday the xvj<hi rend="sup">th</hi> of March, about one of the clock wee came to Mai. Starkies houſe at Cle<g ref="char:EOLhyphen"/>worth, who hearing that wee were come
+<pb n="51" facs="tcp:184106:26"/>Miſtres Starkie with Iohn Star. her ſonne, and Ann her daughter with ſome other of the family came forth to meete vs, and en<g ref="char:EOLhyphen"/>terteyned vs with great ioye, and brought vs into the hall, where we found M. Star. himſelfe, being then ready to riſe from dinner, who after our welcome to him, commanded the meate to be brought a<g ref="char:EOLhyphen"/>gaine, and deſired vs to ſirt downe at table, and ſo we did: Preſently after prayſing of God, wee began to enquire of M. Starkie, the ſtate of his family, and asked him how they did: He anſwered, he thanked God, they were all much better then they had bene, but ſpecially Iohn Starkie had bene well for a fortnight together, and not ſo much as once troubled, and Anne Star. his daughter had bin well divers dayes before our comming, without any firt at all, and the reſt began to mend now ſince Edmond the witch was hanged; And both hee and his wife doubted not, but that they ſhould now doe well. Which when wee hearde, wee ſuſpected greatly Satans lurking in them: And deſired to ſee thoſe that were ſtill troubled, which were eſpecially three, who were all in the kitchin quiet; he cal<g ref="char:EOLhyphen"/>led for them to come vp into the hall, and ſo they came: firſt the eldeſt came neare
+<pb n="52" facs="tcp:184106:27"/>vnto the table and made lowe courteſie, &amp; preſenthe in a moment was trowen into a chayre, about 3 yardes diſtant from the place where ſhe ſtoode, where ſhee reared backward in the chaire as though ſhe had ben a ſleepe, her body ſtretched out to the furtheſt, and as ſtife as yron: This beeing done, in comes the ſeconde, who did like the firſt, and was ſuddenly caſt to a table ſide, iuſt oppoſite againſt the other: After<g ref="char:EOLhyphen"/>warde comes in the laſt, with both her handes cloſed to her face, &amp; vttered theſe wordes, I am come to counſayle before I be called, and ſtraight way while the word was in her mouth, ſhe was ſtricken back<g ref="char:EOLhyphen"/>ward to the forme-ſide, where ſhee ſatt all agaſte like the reſt. Herevpon we aroſe fro<g ref="char:cmbAbbrStroke">̄</g> the table, beeing much amaſed at the ſtrangnes of the ſight, and came to behold them, and ſee in what maner they were vi<g ref="char:EOLhyphen"/>ſited. And after we had vewed them well, within a quarter of an houre, they al ſtood vp. And amo<g ref="char:cmbAbbrStroke">̄</g>g many odd pleaſant, though vnvſuall ſpeaches, one of theſe three ſpake thus merily (about the hanging of Hartley the witch, who was newlie executed) doe they think that they could hange the De<g ref="char:EOLhyphen"/>vill: I whiſh no, they might hange Edmo<g ref="char:cmbAbbrStroke">̄</g>d, but they could not hange the Devill, for
+<pb n="53" facs="tcp:184106:27"/>they were two, Edmond and the Devill. And after they began to raile and revile and to ſtrike both with handes and with feete, and could not be ruled till they were remoued into an vpper chamber, where they continued together, talking one to another, mocking and ſcorning ſuch as held them downe, or ſaid, or did any good vno them: And ſo they remayned, depri<g ref="char:EOLhyphen"/>ued of the right vſe of their ſences, both ſpeaking, and doing much evill, and yet vtterly ignorant and ſenceles in all that paſſed from them, ſo continuing from that houre being 2 a clock on the Wedneſday till 6 at night vpon Thurſday, when it pleaſed God to deliuer them and the reſt.</p>
+               <p>Then we went into the garden, conſul<g ref="char:EOLhyphen"/>ting with M. Starkie, what was beſt to bee done. We agreed vpon this courſe, namely to take in hand the exerciſe of faſting and prayer the next day, conſidering with our ſelues where wee might haue ſome other Godly Preacher to ioyne with vs, to aſſiſt vs in that worke, We thought of diuerſe, but in the end we made choyſe of one M. Dickoms, the miniſter at Leigh, which is the Pariſh Church to M. Starkie. Where<g ref="char:EOLhyphen"/>vpon we ſent for him.</p>
+               <p>In the meane time we purpoſed to pre<g ref="char:EOLhyphen"/>pare
+<pb n="54" facs="tcp:184106:28"/>the whole familie againſt the next day, to make them all as fit as we could for that holy worke: and chieflie that they might bee truely humbled, and ſanctifi<g ref="char:EOLhyphen"/>ed, that ſo wee might with the more cou<g ref="char:EOLhyphen"/>rage and comfort ioyne with them the next day in faſting and prayer. But when ſome of the poſſeſſed were tried, they were found vncapable of all good counſayle &amp; inſtruction, and yet had abilitie and pow<g ref="char:EOLhyphen"/>er to reſiſt &amp; ſcorne the ſame. After ſome halfe houre ſpent this way with ſome of the<g ref="char:cmbAbbrStroke">̄</g>, the reſt of the poſſeſſed were all come into the chamber: Margret Byrom was newly come from Mancheſter, whom Ma. Starkie had cauſed to be ſent for, and Iane Aſhton alſo, which before our comming was not much ſuſpected:
+<note place="margin">Though y<hi rend="sup">e</hi> Divel had diſſembled &amp; hid him ſelf in both theſe, yet nowe the word fin<g ref="char:EOLhyphen"/>deth him out, &amp; he can diſ<g ref="char:EOLhyphen"/>ſemble no lo<g ref="char:cmbAbbrStroke">̄</g>ger, but muſt nee<g ref="char:EOLhyphen"/>des ſhew him ſelfe.</note> Yet ſhee that day in the morning had her belly ſwelled as bigge as a woma<g ref="char:cmbAbbrStroke">̄</g> with childe, &amp; ſtraight vpon our comming, a ſtraunge skriking and howling, as the reſt had. So Mai. Star<g ref="char:EOLhyphen"/>kie holding his ſonne Iohn, and Miſtreſſe Starkie her daughter Anna faſt in their armes, Ma. Darrell began to exhort them. Preſentlie Iohn Starkie and Anne, cryed out mightilie, with ſuch outrageous roa<g ref="char:EOLhyphen"/>ring and belling, that they could not of a
+<pb n="55" facs="tcp:184106:28"/>long time be reſtreyned. And Iohn Star<g ref="char:EOLhyphen"/>kie being caſt and holden downe vppon a bedd, was moſt fearfullie tormented, and ſo payned in his ſtomacke, and pulled in his belly, heaving &amp; lifting, as if his heart would burſt, wherevpon hee ſhedd manie bitter teares, and ſo continued, ſometimes crying out exceeding loude, and ſome<g ref="char:EOLhyphen"/>times in theſe torme<g ref="char:cmbAbbrStroke">̄</g>ting fitts, to the great griefe of the beholders. And while we la<g ref="char:EOLhyphen"/>boured to comfort them by exhortations, we were ſcorned by the firſt three that lay by vpon beddes in euery good worde that we ſpake, and they would take it into their mouthes, and mocke it: When we called for the Bible, they fell a laughing at it, and ſayde, reach them the <hi>Bibble bable, bibble babbell,</hi> it went ſo round in their mouthes from one to another, and continued with manie other ſcorninges and filthie ſpea<g ref="char:EOLhyphen"/>ches, that we could not bereaue them of it. Therevpon we purpoſed to leaue them for a while, exhorting againe Iohn Stat<g ref="char:EOLhyphen"/>kie to truſt in the Lorde; to bee patient in that affliction; to pray to God, and deſired him to ſay after vs, the Lordes prayer: but he was the more tormented a great deale, and not a worde could he ſpeake, but that ſcorner that lay next him, ſaide after vs,
+<pb n="56" facs="tcp:184106:29"/>nicknaming euery worde in the Lordes prayer, ſo farre as we went in it. For when we perceaued ſuch horrible blaſphemie, we durſt not proceede but gaue ouer or euer we came to the end, being exceedinglie grieued, that they had deſpiſed ſuch holy thinges as dogges and ſwine, that would if they could haue turned againe, and all to rent vs: wherevpon we were forced to giue place to the Devill, who indeed at this time beſtirred him ſelfe, working mightilie in all the poſſeſſed ſuch torme<g ref="char:cmbAbbrStroke">̄</g>ts and ſuch troubles, with ſuch outrageous ſpite and contempte, as I am perſwaded was ſeldome or neuer ſeene the like, and all of purpoſe to diſcourage vs in that ſkir<g ref="char:EOLhyphen"/>miſh, and to driue vs out of the fielde, and if it were poſſible not to dale to ſett vpon him any more.</p>
+               <p>The trueth is, we were greatly diſcou<g ref="char:EOLhyphen"/>raged at that time, not knowing wel what to doe: we left them ſo, and went into a garden tor<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>efreſh our ſelues, hauing ſpent a good while with them, it grewe towarde ſupper time; we were requeſted to come in, and being ſet at ſupper, Mai. Dickoms (whom we had ſent for) came in. We told him what ſtraunge things had fallen out, ſince our comming thither, &amp; of our pur<g ref="char:EOLhyphen"/>poſe
+<pb n="57" facs="tcp:184106:29"/>to faſt and pray with the familie, if he would ioyne with vs; which thing he was verie readie to doe. And hauing purpoſed alſo to prepare the familie therevnto, wee went about it. Hauing the whole familie togeather, and diuerſe honeſt neighbours for the holding and tending of the poſſeſ<g ref="char:EOLhyphen"/>ſed, we made entrance into the preparatio<g ref="char:cmbAbbrStroke">̄</g>, which was by way of exhortation. Wee found the<g ref="char:cmbAbbrStroke">̄</g> verie lowde, froward &amp; rough to deale withall, that we could hardlie get any audience: but perceaving the great malice &amp; ſpite of the Deuill, that wrought againſt vs, labouring violentlie to trouble vs, that we might againe giue ouer the worke as wee had done before, Wee were provoked in this reſpect with great zeale to pray againſt him, &amp; with all the deſires of our ſoules, to intreate the Lorde to put the Devill to ſilence, and that hee would charge, and commaund the evill ſpirites to holde their peace;
+<note place="margin">The pray<g ref="char:EOLhyphen"/>er was not ſooner made but preſently they held their peace euery one, prayſed be God.</note> that ſo wee might both haue good audience in praying and ſpeaking the Worde, and alſo performe all other dueties profitably without lette: which came to paſſe accordingly, for wee found the Lorde neare and readie to heare vs: who preſentlie ſhewed his power in commaunding Satan to ſilence, and to be
+<pb n="58" facs="tcp:184106:30"/>ſtill, and they obeyed him, for there fol<g ref="char:EOLhyphen"/>lowed a great calme. So we went forward performing that ſeruice which remay n<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> with much comfort. This preparation be<g ref="char:EOLhyphen"/>ing finiſhed, by this time it drewe towa<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> midnight, wee went all to bedde, to tak<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſome reſt, that being thereby refreſhed, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> might bee the better able to performe <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> greater ſeruice the next day, which we ha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> bound our ſelues vnto, being exceeding <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> encouraged to ſet vpon it with ſure ho<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of the victorie, in that the Lord had p<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> the pawne and pledg of it into our hand ouer night, giuing vs ſuch plaine expe<g ref="char:EOLhyphen"/>rience both of his preſence &amp; of his power by reaſon wherof our faith gathered grea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſtrength, that ſeeing the Lord had bleſſe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> our endevour thus far in the entrance an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> giuen vs ſuch good ſucceſſe in the prep<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ration, that he would not faile to be pre<g ref="char:EOLhyphen"/>ſent with vs in the bataille it ſelfe, to ſhe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> his power, and to worke with vs till we had troden Satan vnder our feete. There fore when the morning came, we prepare our ſelues after the beſt maner we coul<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> that that holy exerciſe of faſting &amp; pray<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> might be performed both by our ſelves all that ſhould ioyne with vs therein, wi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> moſt fruite, that wee might attaine to th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="59" facs="tcp:184106:30"/>marke that we ſett before vs: namely, the confounding of Satan and the full deliue<g ref="char:EOLhyphen"/>rance of the poſſeſſed. There was alſo great preparation in the familie to ſett all things in good order, that we might not be trou<g ref="char:EOLhyphen"/>bled in the work. And having a faire large parlour alreadie trimmed, they brought in thither certaine beds or couches, vppon which they laide the 7 ſicke poſſeſſed per<g ref="char:EOLhyphen"/>ſons. All this while the honeſt neighbours neare about, coming in, the roome filled apace, ſome holding and tending the ſicke poſſeſſed, &amp; ſome ſitting by. It being now about 7 a clocke, and all things made rea<g ref="char:EOLhyphen"/>die, the parties being ſtill troubled, their torments ſtil increaſing, &amp; their fits doub<g ref="char:EOLhyphen"/>ling vpon them, ſomtimes either howling or crying, or els lifting, heaving, or vomit<g ref="char:EOLhyphen"/>ting, or els ſcorning, or rayling, or caſt into a traunce, which was euer at the ende of their fits, being as a breathing time to re<g ref="char:EOLhyphen"/>freſh them by, and then too it againe. The ſight and hearing of theſe thinges was ſo wonderfull that a man can not poſſiblie come neere it in deſcribing of it, neither was euer ſuch a thing ſeene in our dayes, nor in the dayes of our fathers, ſuch a number in one place, lying in ſuch a fear<g ref="char:EOLhyphen"/>full maner ſo miſerably vexed by the De<g ref="char:EOLhyphen"/>vill.
+<pb n="60" facs="tcp:184106:31"/>We could not chuſe but be exceeding<g ref="char:EOLhyphen"/>ly affected with great ſorrow and grief <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> compaſſion of their miſeries, which pro<g ref="char:EOLhyphen"/>voked vs to offer vppe our prayes wi<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſtrong crying &amp; teares vnto God that w<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>able to heare, and to ſaue vs from th<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> which we feared.</p>
+               <p>Wee then with ſuch reuerence as wa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> meete, beganne the exerciſe of humbli<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> our ſoules vnto God, in the mediation <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Ieſus Chriſt, and by the direction of th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> holy Ghoſt proceeded in the worke till <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> was finiſhed. In which proceeding it is <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to obſerue diverſe ſtrang eventes which happened. For the poſſeſſed being of diuer<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> kinds, we had more adoe with them: for<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of thê were poſſeſſed with skorning ſpirit<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> &amp; quite bereaued of the right vſe of the<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſences, with whom wee were much mo<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> troubled then with the other three which were euer very ſober, though they wer<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> very ſore tormented. And yet through th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> great mercy of God, after we had made a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> entrance, God bridled the rage of Satan and ſo reſtrained his fury, that after h<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> had made his flouriſh in the beginning <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> and ſhewed his power (as then he will d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the worſt hee can) it pleaſed God as be<g ref="char:EOLhyphen"/>fore in our preparation ouer-night, <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <pb n="61" facs="tcp:184106:31"/>the exerciſe it ſelf, where many were aſ<g ref="char:EOLhyphen"/>ſembled together, to make them all quiet, and to keepe them all in ſuch order, that to<g ref="char:cmbAbbrStroke">̄</g> 7 a clocke in the morning till 3 a clock <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the afternoone, we went forward with<g ref="char:EOLhyphen"/>out any great interruption, ſaue that now and then, ſome of them had ſome ſudden <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>tt for the ſpace of halfe a quarter of an houre; which being ended, we went on ſtil perceauing the Lord working with vs, gi<g ref="char:EOLhyphen"/>ding vs oftentimes ſundry ſignes of the victory, whereby we were much encoura<g ref="char:EOLhyphen"/>ged. Forin the firſt Sermon whileſt Maſter Dickoms was preaching, Margret Hurd<g ref="char:EOLhyphen"/>man, who was the principall and chief of the ſcorners, was plainely heard, both by ſome of the Preachers &amp; of the people, to vſe theſe words oftentimes: <hi>J muſt be gone, I muſt be gone, whether ſhall I goe? whether ſhall I goe? I will nor dye, I will not dye.</hi> Repeating ouer againe &amp; againe the ſame thing halfe a dozen times at the leaſt, in a ſine lowe voice and in the tune of ſinging.</p>
+               <p>After this there appeared no great diſtra<g ref="char:EOLhyphen"/>ction till three of the clocke in the after<g ref="char:EOLhyphen"/>noone: and toward the end of my ſermon (as the Diſcouerer hath reveyled) when the abouenamed Margret Hurdman was heard againe to vtter theſe wordes, <hi>I can<g ref="char:EOLhyphen"/>not
+<pb n="62" facs="tcp:184106:32"/>tarie: I cannot tarie: I am too hoote: am too hoote: let me goe: let me goe.</hi> Whi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> wordes gaue vs this comfort, that Satha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> would not long keepe his holde, he was heated by faſting and prayer, and by t<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> word of God ſo zealouſlie and powerfull applyed, as if fyer were put into his ho<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> to burne him out: for herevpon before <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſermon was or could be ended, ſhee wi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> all the reſt brake out into exceeding loud cryes, all ſeaven roaring, &amp; belling in ſu<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> extreame and fearfull manner that the troubled vs al, being ſo violent and outra<g ref="char:EOLhyphen"/>gious that they had much adoe to be hol<g ref="char:EOLhyphen"/>den. For Satan then being ready to depart did firſt vexe all the vaynes of their hart<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and did ſo torment them, that they we<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> forced to lay about them with both hand and feete, to pull their hayre, and to re<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> their clothes, to knocke their heads, an to ſtrike themſelues, crying out with ope<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> mouthes, &amp; roaring as if they were mad<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Then was there ſuch ſtrugling &amp; ſtriuin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> betweene vs and thoſe ſeaven Devills, cr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ing out ſo loude with ſuch violence a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> extention of voyce, labouring who ſhou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> be loudeſt, till our voyces were ſpent a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> no ſtrength almoſt left in vs. This battay continued verie neare the ſpace of i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="63" facs="tcp:184106:32"/>houres, till we were exceedinglie weake<g ref="char:EOLhyphen"/>ned with longe and loude crying vp vnto heauen, but it pleaſed God toweaken Sa<g ref="char:EOLhyphen"/>tans power much more, and to tread the euill ſpirits vnder our feete. And thus much may ſerue to ſhew, what beginning we made into this worke, and howe wee proceeded therein, and that our whole courſe &amp; cariadge held in this cauſe thus farre may cleare vs, that we neither ſought worke, nor ſet our ſelues to work, though we be charged ſo to doe, by this Diſcove<g ref="char:EOLhyphen"/>rie, as may appeare by the ſcope of the whole laſt chapter of the firſt booke: nei<g ref="char:EOLhyphen"/>ther in dealing with theſe ſtraunge afflie<g ref="char:EOLhyphen"/>tions, haue we vſed eyther deluſions, iug<g ref="char:EOLhyphen"/>lings, exorciſmes, or any ſuch vayne and ridiculous fooleries as they haue detected in the popiſh Prieſtes, nor yet any ſuch lightnes as ſhould be co<g ref="char:cmbAbbrStroke">̄</g>demned by men that meddle with matters of ſuch mo<g ref="char:EOLhyphen"/>ment.</p>
+            </div>
+            <div n="4" type="part">
+               <pb n="64" facs="tcp:184106:33"/>
+               <head>The fourth part.</head>
+               <p>NOw; it followeth in the fourth plac<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to deſcribe brieflie the meanes a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> maner of the diſpoſſeſſion of theſe 7 pe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ſons, that ſo it may appeare that Mai. Da<g ref="char:EOLhyphen"/>rell was neither the only, nor yet the prin<g ref="char:EOLhyphen"/>cipal agent therein; co<g ref="char:cmbAbbrStroke">̄</g>trarie to that whi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> the Diſcoverer doeth falſlie report of him Chap. 1. pag. 2. namelie, <hi>That though he had gloried in</hi> 2 <hi>exploites, yet his name w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> not ſo famous, till he had dispoſſeſſed</hi> 7 <hi>per<g ref="char:EOLhyphen"/>ſons in Maister Starkies houſe, at one cla<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> And for proofe heereof they alleadge th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſtorie of the boy of <hi>Burton,</hi> in the ende<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> which booke, it is thus written viz. <hi>Short<g ref="char:EOLhyphen"/>lie you ſhall haue the true ſtorie come foor<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> of thoſe</hi> 7 <hi>in Lancaſhire, that were poſſeſ<g ref="char:EOLhyphen"/>ſed with vncleane ſpirites, and all</hi> 7 <hi>deliue<g ref="char:EOLhyphen"/>red at one time by this man.</hi> And the more to confirme this, they alleadge Mai. Dar<g ref="char:EOLhyphen"/>rels owne teſtimonie, in his anſwere to the 6 artic. of his exam. (quoted in the marg) therevppon inferring thus: <hi>By this man, meaning Mai. Darrell, as he himſelfe hath confeſſed:</hi> I will therefore firſt ſett downe the trueth concerning their deliuerance,
+<pb n="65" facs="tcp:184106:33"/>and after proue that Mai. Darrell is made the principall in this action by this Diſco<g ref="char:EOLhyphen"/>uerer, but vnder a pretence onely, and for a further fetch.</p>
+               <p>For the truth firſt you haue heard alrea<g ref="char:EOLhyphen"/>die, that we were three Preachers that ex<g ref="char:EOLhyphen"/>erciſed that day, of whom I was the laſt; &amp; indeed in the latter end of my ſermon (as the <hi>Diſcouerer hath reveyled</hi>) they grewe to be ſo ſtrong, that they could verie hard<g ref="char:EOLhyphen"/>lie be holden downe vppon their beddes, though they had lyen before reaſonablie quiet.</p>
+               <p>But chieflie one of them namely Iane Aſhton, being both the ſtrongeſt &amp; worſt of all the reſt, was alſo more violentlie ve<g ref="char:EOLhyphen"/>xed, having her fittes ſo ſore and ſo thick, that we feared, ſhe would either haue fain<g ref="char:EOLhyphen"/>ted and fallen downe, orells have yeelded vnto Sathan, who laboured mightilie to make her workeable to his purpoſe: wher<g ref="char:EOLhyphen"/>vpon Mai. Darrell and Mai. Dickoms the other Preacher that ioyned with vs, being much affected with her miſerie, as by force of her fittes ſhe was violentlie caried aſide from the reſt, they two attended vpon her, ſtriving with all their power to vpholde &amp; ſtrengthen her.</p>
+               <p>In the meane time the other 6 being ſore
+<pb n="70" facs="tcp:184106:34"/>tormented, and ſtrugling with thoſe th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> kept them, were got from them, and be<g ref="char:EOLhyphen"/>ing tumbled fro<g ref="char:cmbAbbrStroke">̄</g> their pallets to the flo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> and neare to the fire ſide, where by th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> good providence of God, I was brough<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> euen into the middeſt of them: and the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> being aſſiſted with the prayer of their p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>rents and the people, we earneſtlie entre<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ted the Lorde for them, with ſtronge an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> mightie cryes: And it pleaſed God to hea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> vs at that inſtant for thoſe 6. who were a vpon a ſuddaine ſtraungelie and fearfull caſt downe before vs, where they lay all along one by another, altogeather fenc<g ref="char:EOLhyphen"/>les, their bodies ſtiffe and ſtretched out, a if they had bene ſtarke dead, for the ſpa<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> of halfe a quarter of an houre.</p>
+               <p>In which time, Mai. Dickoms came<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> me, and ſaw all of them, laide as dead, at how they roſe vp agayne one after ano<g ref="char:EOLhyphen"/>ther, in order as they fell, acknowledgit that they were freed from the euill ſpi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> and that he was departed from them.</p>
+               <p>Wherevpon euerie one of them ſelue with great ioy and gladnes of heart, ga<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> thankes to God for that benefite.</p>
+               <p>All this while Mai. Darr. was with t<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> other mayde ſtanding at a great wind<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> in another part of the parlour, which <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <pb n="71" facs="tcp:184106:34"/>both long and large, ſo that hee neither ſawe, nor heard, of the deliuera<g ref="char:cmbAbbrStroke">̄</g>ce of theſe 6. he neither knewe, when they were caſt downe, nor when they roſe vpp, nor once ſuſpected any ſuch thinge, vntill ſuch time as they being perfectlie reſtored, ſtoode vpon their feete, leaping and daunſing &amp; prayſing God: when alſo we were all fil<g ref="char:EOLhyphen"/>led with exceeding ioy, which was teſtifi<g ref="char:EOLhyphen"/>ed by ſhowting and clapping of handes, ſo that the earth range with the prayſes of God, and the whole houſe was filled with the ſounde thereof.</p>
+               <p>Now the diligent obſerving of the ſtate and condition of theſe 6 perſons in one houre, what violent paſſions, &amp; extreame outrage they were in for the beginning of the houre, driuen and drawen to crye and roare with all madnes and furie, and to do they knew not what. And then ſecondlie in the laſt part of the houre, to bee quite chaunged into another condition, caried as it were with all force and violence into other contrarie extremities of vnſpeakea<g ref="char:EOLhyphen"/>ble and exceſſiue ioyes, the beſt way: to be ſo ſuddenlie brought from the bondage and torture of Satan, into the glorious li<g ref="char:EOLhyphen"/>bertie of the ſonnes &amp; daughters of God. By theſe ſignes and ſuddayne chaunge, it
+<pb n="68" facs="tcp:184106:35"/>is moſt evident, that the firſt eſtate is ſo ma<g ref="char:EOLhyphen"/>nifeſt the worke of Satan, &amp; the 2 ſo clea<g ref="char:EOLhyphen"/>red to be the worke of God, that it cannot poſſiblie be the worke of fleſh and bloud, neither could it bee counterfayted by anie man. For I am perſwaded that if 6 of the cunningeſt wittes that be in the worlde, ſhould ioyne their heads togither to make ſuch another worke: yet they could not deceyue the ſences of ſuch men, as had ſeene by experience, and had made ſome triall of theſe ſtraunge and great workes, for they could quicklie diſcerne, their cloſe iugling and ſleightie conveyance to be but deluſions &amp; hipocriſie, &amp; ſo would their wickednes be manifeſted to all men.</p>
+               <p>By this it may appeare that Ma. Darrell was not the principall or chiefe Actour in their diſpoſſeſſion, neither can he in deed be ſo accounted, ſeeing that at the verie time whiles we were crying vnto the Lord for theſe 6: hee was ſeparated to another worke, and buſilie imployed another way, namelie, inſtructing, comfortinge, and ſtrengthening the Maide, who remayned all this while miſerablie vexed by the De<g ref="char:EOLhyphen"/>vill.</p>
+               <p>Wherevpon at our being there he com<g ref="char:EOLhyphen"/>playned vnto mee concerning the diſpoſ<g ref="char:EOLhyphen"/>ſeſſion
+<pb n="69" facs="tcp:184106:35"/>of theſe 6, &amp; tolde me that he ſawe neuer a one of them when they were deli<g ref="char:EOLhyphen"/>uered, which he ſaide grieued him excee<g ref="char:EOLhyphen"/>dinglie.</p>
+               <p>After this alſo I confeſſe that to be true which the diſcouerer hath diſcloſed book 1. chap. 10. pag. 56. namelie, that I tooke all theſe 6 vnto me, and exhorted them to continue in the feare of God: telling them that Satan would ſeeke to enter into them againe, whom I admoniſhed to reſiſt by faith and prayer, and by putting on all the whole armour of God, incouraging them by all meanes to ſtande faſte, ſaying thus vnto them: If you doe manfullie reſiſt, no doubt but you ſhall ſee that Sathan will flie, not being able to doe you any harme. And as they regarded well this counſell, ſo it pleaſed God to bleſſe it accordinglie, for he gaue them ſuch ſtrength and courage, though fiue of them were but children, that they did moſt ſtronglie reſiſt him, ſo that though his aſſautes were vſually ve<g ref="char:EOLhyphen"/>rie fierce and importunate for the preſent, yet could he not prevaile with the leaſt to yeelde vnto him. And ſo hitherto they haue all 6 bene preſerued both ſafe and ſounde, without anie further moleſtation, to the great praiſe and glorie of God.</p>
+               <pb n="74" facs="tcp:184106:36"/>
+               <p>Now whiles I was thus imployed about thoſe 6. Mai. Darrell tooke great paynes with the Maid, hoping ſtill that ſhe would haue bene diſpoſſeſſed that night alſo, but it came not ſo to paſſe. Wherevppon tho<g ref="char:EOLhyphen"/>rough the deceitfulnes of Satan, who had drawen her to diſſemble, and brought her to an impudent outfacing of the truth, we were driue<g ref="char:cmbAbbrStroke">̄</g> to giue ouer for that time, pur<g ref="char:EOLhyphen"/>poſing in the morning to renewe the exer<g ref="char:EOLhyphen"/>ciſe of faſting and prayer in the behalfe of that maide onlie: which when we had en<g ref="char:EOLhyphen"/>tred into, ſhe was ſorer vexed and tormen<g ref="char:EOLhyphen"/>ted then euer ſhe was before, till it was a<g ref="char:EOLhyphen"/>bout noone or one of the clocke, about which time, ſhee alſo through the great mercie of God, receiued helpe and deliue<g ref="char:EOLhyphen"/>rance.</p>
+               <p>For when we had all three in order per<g ref="char:EOLhyphen"/>formed this duetie of prayer, ſhee hauing wrought vs all one after another till wee were wearie, the laſt time as it came to my courſe I having continued ſome time, de<g ref="char:EOLhyphen"/>ſired another to take my rowme: which when the maide hearde, ſhee ſuddenl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> caught me by the hande, held me faſt, and ſaide vnto me: Nay for Gods ſake leaue me not yet, ſticke to it a litle longer, &amp; you ſhall ſee he will departe ſhortlie.</p>
+               <pb n="75" facs="tcp:184106:36"/>
+               <p>Herevpon receyuing this good incou<g ref="char:EOLhyphen"/>ragement, I continued ſtill, and with the ioynt aſſiſta<g ref="char:cmbAbbrStroke">̄</g>ce of the reſt, we earneſtly en<g ref="char:EOLhyphen"/>treated the Lord for her, ſo it was not long before ſhe was caſt into a traunce, lying as if ſhe had bene faſt a ſleepe, anon ſhe burſt out into weeping that the teares trickled downe her cheekes apace in a verie extra<g ref="char:EOLhyphen"/>ordinarie maner; after which ſhe preſent<g ref="char:EOLhyphen"/>lie roſe vp, and thanked God that the evill ſpirit was departed from her.</p>
+               <p>She alſo being violentlie aſſaulted by the Devill, reſiſted ma<g ref="char:cmbAbbrStroke">̄</g>fully, as the reſt did, and likewiſe prevayled, and ſo was by the mercie of God preſerued, during all the time ſhe was in her miſtres houſe, but af<g ref="char:EOLhyphen"/>terward ſhe departed thence, and dwelt with her Vncle, a papiſt, in the furtheſt parte of Lancaſhire, where there reſorted vnto her certayne Seminarie prieſtes, by whoſe co<g ref="char:cmbAbbrStroke">̄</g>iurations and magical inchaunt<g ref="char:EOLhyphen"/>ments, (as it is reported) the evil ſpirit was brought into her againe, ſince which time ſhe hath bene exceedinglie torme<g ref="char:cmbAbbrStroke">̄</g>ted, and ſo ſtill co<g ref="char:cmbAbbrStroke">̄</g>tinueth like So<g ref="char:cmbAbbrStroke">̄</g>mers repoſſeſſed.</p>
+               <p>As therefore the good providence of God may be diſcerned in the diſpoſing of all things, ſo alſo it ſheweth it ſelfe moſt clearelie in the wel ordering of this whole
+<pb n="72" facs="tcp:184106:37"/>action, if it be well obſerued.</p>
+               <p>Firſt in ſending me with Mai. Darrells be a witnes of thoſe ſtraunge and vnwo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ted workes of God.</p>
+               <p>Secondlie, in not vſing Mai. Darrells the chiefe inſtrument, neither for the diſ<g ref="char:EOLhyphen"/>poſſeſſing of the ſix the firſte day, nor y<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> for the deliuerance of the ſeauenth on th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſecond day.</p>
+               <p>Thirdlie, in that without his labor the were prepared by faith and prayer and o<g ref="char:EOLhyphen"/>ther ſpirituall armour to reſiſt the euil ſpi<g ref="char:EOLhyphen"/>rit, by meanes whereof they were preſer<g ref="char:EOLhyphen"/>ued from Repoſſeſſion. For if Mai. Darre<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> had bene the chiefeſt in diſpoſſeſſinge <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> theſe 7. and of Thomas Darling, as he w<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> of other two, namely of Katherine Wrigh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and of William Sommers: then ſurelie<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> would haue bene thought that he had h<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſome ſpeciall gifte that way aboue othe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> men, and this diſcouerer might haue ha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the greater ſhew of advantage in chargin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> him ſo deepelie and ſo often with th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> matter.</p>
+               <p>For which cauſe queſtionles it pleaſe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> God to preuent him in theſe 7. And as ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Thomas Darling, Mai. Darrell onlie ga<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> adviſe to his friendes to faſt and pray, an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> humble them ſelues on his behalfe, and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <pb n="73" facs="tcp:184106:37"/>they did, neither he nor any other Prea<g ref="char:EOLhyphen"/>cher being preſent, it pleaſed God at their Prayers, being but 9 or 10 ſimple people to be intreated, and to deliuer the partie from that poſſeſſion, that ſo by diuers and ſundry experimentes, it might appeare to all the world that this is no extraordinarie gifte, peculiar to any one man, but com<g ref="char:EOLhyphen"/>mon to all the faithfull, aſwell to one as to another, and that the meane and ſimple people may haue as great priviledge and power to caſt out Satan, by their faith and faſting and fervent prayer, as either he, or I, or the beſt and chiefeſt Preacher.</p>
+               <p>Out of the premiſſed then it may be col<g ref="char:EOLhyphen"/>lected that if there bee any evill in this worke, it is rather to be imputed vnto me then vnto Ma. Darrel: for in trueth (as the Lord liveth) there is no occaſion of euill in him concerning this matter; for if hee had wrought craftilie at other times, and practiſed deceyte: why ſhould it not haue appeared and broken out aſwell in dealing with theſe 7 as in other places; but I am perſwaded (ſuch is his ſimplicitie) that he is as cleare, and was euer as free from cou<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>terfayting, as I my ſelfe am. And I dare boldlie proteſt euen before the Lord, that ſuch a thought came neuer once into my minde.</p>
+               <pb n="78" facs="tcp:184106:38"/>
+               <p>Nowe howſoeuer it might ſeeme more expedie<g ref="char:cmbAbbrStroke">̄</g>t for me to be ſilent in theſe things leaſt I ſhould ſeeme, or be taken even as a foole in boaſting my ſelf: yet herein I may ſay with the Apoſtle, you haue euen com<g ref="char:EOLhyphen"/>pelled me: for indeed ſo great is the inco<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>venience that hath come by the miſcon<g ref="char:EOLhyphen"/>ceyuing and miſreporting of this matter of facte, as that it hath enforced a neceſſi<g ref="char:EOLhyphen"/>tie of manifeſting the trueth therof in the plaineſt maner which yet hitherto for mo<g ref="char:EOLhyphen"/>deſties ſake, hath bene ſuppreſſed for the ſpace of 3 yeares, and likelie neuer to haue come to light, if our innocencie could haue bene cleared without it.</p>
+               <p>But now I muſt returne to the Diſcoue<g ref="char:EOLhyphen"/>rer, and proceed to performe my promiſe, which is, to proue, that the purpoſe of the Detectour, to make Mai. Darrell the prin<g ref="char:EOLhyphen"/>cipal agent in this diſpoſſeſſio<g ref="char:cmbAbbrStroke">̄</g>, is onlie vn<g ref="char:EOLhyphen"/>der a pretence &amp; not that he is ſo perſwa<g ref="char:EOLhyphen"/>ded, my reaſons are theſe: Firſt to pretend Mai. Darrell to be principall, in this, aſwel as in all the reſt, is great pollicie: for vnder this prete<g ref="char:cmbAbbrStroke">̄</g>ce, all that they charge him with concerning teaching of Sommers, hath the greater colour of trueth. Secondly, by inforcing this, as they doe much in their booke, it doeth more eaſilie perſwade men
+<pb n="79" facs="tcp:184106:38"/>to beleeue, that he is a verie common and lewde practizer and deceiuer. Thirdlie, by this title of principall, &amp; in al places where he comes to bee the chiefeſt, it preſuppo<g ref="char:EOLhyphen"/>ſeth an extraordinarie iugling ſkill, and a ſingular cunning in legerdemaine, as they terme it: wherevpon they ſaye that when he beganne with Katherine Wright, then he dealt but rudelie and vnſkilfullie: but after he had practized with Thomas Dar<g ref="char:EOLhyphen"/>ling and the 7 of Lancaſhire, then he was his craftes maiſter. Fourthlie, It helpes to iuſtifie that accuſation of vaine glorie, and that he deſires to haue a great name, and to make him ſelfe famous, or ells that he is the onelie man that hath a peculiar pre<g ref="char:EOLhyphen"/>rogatiue to caſt out Devills aboue all men, ſeeing that where-ſoeuer he comes, hee beares a way the bell (as they ſay) and that no bodie can doe the feate but he. Fiftlie, vnder this pretence they may with leſſe preiudice proceede againſt him; ſeeing that in foure ſeuerall actions, though they finde ſome acceſſories, yet they finde none principall but him ſelfe. And thus polli<g ref="char:EOLhyphen"/>cie hath preferred him to bee principall, when in deed they know hee is not; ſo of purpoſe to doe him a miſchiefe, and to di<g ref="char:EOLhyphen"/>ſhonour the cauſe it ſelfe, euen the great
+<pb n="76" facs="tcp:184106:39"/>worke of God.</p>
+               <p>And that they are not perſwaded, that hee is the principall in this worke, it may thus appeare: Becauſe they haue the ſto<g ref="char:EOLhyphen"/>rie of this matter of Lancaſhire penned by Mai. Dickoms, as is plainely confeſſed and prooued in the Diſcouerie, wherein the diſpoſſeſſion of theſe 7 is moſt plainly de<g ref="char:EOLhyphen"/>ſcribed, with the circumſtances thereof, according to that which I haue heere ſe<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> downe. And therein Mai. Darr. (except that hee was the man that was ſent for to come, and principallie aymed at) is made equall. Concerning this booke I ſpeake that which I know, for I was examined, in that whole ſtory out of it, from the begin<g ref="char:EOLhyphen"/>ning to the ende: and yet the Diſcouerer will take no knowledge of this matter, which is written there, (though it be moſt ſure &amp; certayne) becauſe it makes againſt him, and takes the raſh teſtimonie of the printer, which ſpake onclie as hee hearde, that Mai. Darrell was the man: and as for Mai. Darrell him ſelfe in his teſtimonie, it was eyther miſtaken or miſreported: for<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> dare ſay, that he would not ſay, that thoſe 7 were deliuered or diſpoſſeſſed by him principallie: yet the diſcouerie vrgeth both theſe teſtimonies to the full, becauſe they
+<pb n="77" facs="tcp:184106:39"/>ſeeme much to make for him in all the former reſpectes.</p>
+               <p>If then, this may bee receyued for the trueth, as in deed it is, I doubt not but that all ſuſpition of counterfayting and coniu<g ref="char:EOLhyphen"/>ring, and of all other bad dealing where<g ref="char:EOLhyphen"/>with we haue ben moſt vniuſtlie charged, may be remoued; as alſo that groſſe errour which is tootoo commo<g ref="char:cmbAbbrStroke">̄</g>, of aſcribing anie gift or extraordinarie power of caſting out of Devills, to anie one man, more then to another, may be both convinced and ſup<g ref="char:EOLhyphen"/>preſſed: for herein all men may moſt clear<g ref="char:EOLhyphen"/>lie ſee, that the good hande of God, (in bleſſing his own ordinance, and the poore endeuours of his ſervants) is the onely in<g ref="char:EOLhyphen"/>ward, &amp; efficient cauſe of this great worke of diſpoſſeſſio<g ref="char:cmbAbbrStroke">̄</g>, that ſo all the glorie ther<g ref="char:EOLhyphen"/>of, may wholie &amp; onely be aſcribed vnto him, who worketh all thinges, according to the pleaſure of his own wil, to whom be prayſe for euer.</p>
+            </div>
+            <div n="last" type="part">
+               <pb n="82" facs="tcp:184106:40"/>
+               <head>The last part.</head>
+               <p>NOw it followeth laſt of all, to ſet dow<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the ſignes of diſpoſſ. ſhewed forth b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> theſe 7 immediatlie before their deliue<g ref="char:EOLhyphen"/>rance, in, and after the ſame: and therwit<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> alſo brieflie to ſhewe the retourne of th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſpirites being caſt out: how ſundrie time and diuers wayes by many ſtrange &amp; fea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> full aſſaultes, they ſeeke to reenter: whi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> alſo may ſerue, as an anſwer to that proof of the Diſcouerie, contayned in the 9 an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 10. chap. touching thoſe pointes, that <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> theſe ſignes being conferred according<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> divine and hiſtoricall obſervation, th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> that be indifferentlie minded, may bee a<g ref="char:EOLhyphen"/>ble to iudge what cauſe they haue to ſco<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> theſe ſignes, and to ſport them ſelues wit<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> them, as they doe.</p>
+               <p>The firſt ſigne to manifeſt theſe diſpoſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> was, that the ſpirites did rent, and tea<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> the poſſeſſed, inſomuch that they were ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>rer vexed and tormented immediatlie be<g ref="char:EOLhyphen"/>fore they left them, and euen as it were <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> their departure, then ever they were at a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>nie time before: ſo it is ſaide, when Chri<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> charged the ſpirite to come out of the th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="83" facs="tcp:184106:40"/>childe, then the ſpirit rent him ſore, &amp; af<g ref="char:EOLhyphen"/>ter came out, Marke 9.26.</p>
+               <p>The ſeconde ſigne is that they cryed out with loude voyces, and roared out excee<g ref="char:EOLhyphen"/>dinglie, after the manner of beaſtes, moſt fearfull and lamentable to heare, beeing neuer ſo fierce and outragious in anie of their fittes, as euen then when the ſpirites were forced and compelled to come out of them. And of this ſigne it is thus writ<g ref="char:EOLhyphen"/>ten, <hi>f.</hi> that vncleane ſpirites, crying with a loude voyce, came out of manie that were poſſeſſed, Act. 8.7.</p>
+               <p>Thirdlie, they were caſt downe ſudden<g ref="char:EOLhyphen"/>lie, &amp; lay all along ſtretched out as if they had bene dead, and ſo leaving them as dead, the evill ſpirites departed from the<g ref="char:cmbAbbrStroke">̄</g>. And thus it is written of the childe whom Chriſt diſpoſſeſt: when the vncleane ſpirit came out, he was as one deade, inſomuch that manie ſaid, he is dead, Mark 9.26.</p>
+               <p>Fourthlie, the evill ſpirites departed out of the poſſeſſed in the likenes of ſome vg<g ref="char:EOLhyphen"/>lie creature: and euerie one of the 7 ſawe and perceyued the ſpirites to departe out in a ſeuerall likenes: one, in the likenes of a crowes head, round, which when it was our, went and ſatt in a corner of the par<g ref="char:EOLhyphen"/>lour, with darknes about it a while, then
+<pb n="80" facs="tcp:184106:41"/>went it out of the windowe with ſuch a flaſh of lightning, that all the parlour ſee<g ref="char:EOLhyphen"/>med to her to be on a light fire: It left alſo behinde it in the maide a ſoare throat,
+<note place="margin">Margree <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>yrom.</note> &amp; a moſt fil thie ſmell, in ſo much that het meate was verie vnſavorie for a weeke af<g ref="char:EOLhyphen"/>ter.</p>
+               <p>Another ſaid,
+<note place="margin">Iohn Star<g ref="char:EOLhyphen"/>kie.</note> it went out like a man with a great bulche on his backe, as bigge as a man: verie evill-favoured and vglie to be<g ref="char:EOLhyphen"/>holde.</p>
+               <p>The third ſawe him goe out like an vr<g ref="char:EOLhyphen"/>chine or hedgehogge,
+<note place="margin">Ellyno<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Hurdman</note> and crept as ſhee thought, out at a verie little hole of the window.</p>
+               <p>The fourth like a fowle vglie man,
+<note place="margin">Anne Star<g ref="char:EOLhyphen"/>kie.</note> with a white beard, and a great bulch on his breaſt, bigger then a mans head.</p>
+               <p>The fifte like a blacke man,
+<note place="margin">
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lle<g ref="char:cmbAbbrStroke">̄</g> Ho<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>land</note> or like the fourth, as afore ſaid.</p>
+               <p>The ſixt perceyued it to goe out in the likenes of a great breath vglie like a toad,
+<note place="margin">Iane Aſh<g ref="char:EOLhyphen"/>ton.</note> and round like a ball.</p>
+               <p>The laſt like an vglie man with a great bunch on his backe,
+<note place="margin">Margret Hurdman</note> &amp;c.</p>
+               <p>Fiftlie, the evill ſpirits did preſentlie te<g ref="char:EOLhyphen"/>turne vnto them againe in the ſame like<g ref="char:EOLhyphen"/>nes that they went out, and ſought to re<g ref="char:EOLhyphen"/>enter, and, being reſiſted, they departed, &amp;
+<pb n="81" facs="tcp:184106:41"/>then returned after in other likeneſſes ſee<g ref="char:EOLhyphen"/>king ſtill both by promiſes &amp; threatnings to prevaile: ſomtimes co<g ref="char:cmbAbbrStroke">̄</g>ming in the like<g ref="char:EOLhyphen"/>nes of a man profering bagges of golde and ſiluer, and ſhewing them all maner of coſtlie and ſumptuous things: tempting them therby to yeeld vnto him, and to let him in: enforcing his temptations by pro<g ref="char:EOLhyphen"/>miſing of honours &amp; pleaſures, and great preferments, of the retourne of the ſpirit, when he is caſt out, and his ſeeking to re<g ref="char:EOLhyphen"/>enter, we read in Mat. 12. Luk. 11. And for his diuerſitie of temptations and large of<g ref="char:EOLhyphen"/>fers to prevaile, it is evident in his dealing againſt Chriſt, Math. 4. In theſe aſſaults to reenter, the ſpirits appeared ſometimes in the likenes of a beare with open mouth, ſomtimes of an ape, ſometimes of a bigge blacke dogg, ſomtimes of a black Raven, with a gellow bill, ſomtimes of a flame of fire, ſomtimes of diuers whelpes, but moſt vſually in the likeneſſe of Edmo<g ref="char:cmbAbbrStroke">̄</g>d Hartley a coniurer, who had bewitched them, and was hanged alſo at Lancaſter, for that facte, and for coniuring. In theſe appari<g ref="char:EOLhyphen"/>tions, if hee could not prevaile with his large offers, and faire promiſſes, then would he terrifie them with verye fearfull threatnings: As that he would caſt them into pitts, or breake their necks, or ſome
+<pb n="82" facs="tcp:184106:42"/>other way to plague them, ſaying th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> they ſhould neuer proſper.</p>
+               <p>Wherevpon when he ſaw, that in aſſa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ting of them, he loſt al his labour and pre<g ref="char:EOLhyphen"/>vailed not, hee laboured at the length <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> be revenged of them, for reſiſting of him to which purpoſe hee did trouble them i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> all the partes of their bodies: in their eye with manie vncomfortable ſights, to te<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>rifie them: he tyed their tongues that they could not pray, nor ſpeake as they ſhould he pinched them in their armes, that the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> could not lift them vp, nor ſtirre them for a good ſpace: he pricket them in the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> knees, and in their legges that they could not goe, or yet if they did goe, that the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> they went lame and limping for an hou<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> or two together, and could not poſſibli<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> goe vp right: they had paine alſo in thei<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> feete, and in their head: thus they we<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> moleſted, but they ſtill ſo reſiſted tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> they gaue him the foyle, ſo that in the en<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> hee was forced to leaue them and to fle<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> away.</p>
+               <p>Sixtly they being all diſpoſſeſt by faſting and prayer, according to the ordinance of Chriſt, ſince that time, all their ſwellings and torments haue ceaſed, neither haue they bin troubled or vexed with any more fitts: Only Iane Aſhton being repoſſeſſed,
+<pb n="83" facs="tcp:184106:42"/>hath manifeſted the ſame by ſundrie fear<g ref="char:EOLhyphen"/>full ſignes, and is now become worſe then ſhe was, euery way: but as for the reſt, they haue continued now for the ſpace of two yeares &amp; a half very peaceable and quiet, neither haue they ſhewed forth any ſigne of poſſeſſion, nor any ſuſpition thereof.</p>
+               <p>Laſtly they all gaue great thanks to God, for their deliuerance, and that of them<g ref="char:EOLhyphen"/>ſelues ſo freely and cherefully in ſo excel<g ref="char:EOLhyphen"/>lent &amp; heavenly maner, as that they could neuer doe the like, neither before, nor ſince: they are alſo ſo changed in their conditions, and their maners ſo well re<g ref="char:EOLhyphen"/>formed, that a man ſhall heare no evill come from them, nor any vnſeemely be<g ref="char:EOLhyphen"/>haviour: and now they can pray, and take delight in prayſing God. They goe to church, to heare the word, and continue there with much comfort, and are euery way better then they were before.</p>
+               <p>And thus I haue finiſhed this diſcourſe, wherein I haue delt faithfully to my pow<g ref="char:EOLhyphen"/>er, and whereby I haue detected this diſ<g ref="char:EOLhyphen"/>couerer to be a great deceyuer: like a Tra<g ref="char:EOLhyphen"/>veyler that takes vpon him to diſcouer di<g ref="char:EOLhyphen"/>uers countries, wherein hee neuer came, and to deſcribe the ſtate &amp; people of cer<g ref="char:EOLhyphen"/>taine new-found landes, the ſcituation
+<pb n="84" facs="tcp:184106:43"/>whereof he neuer knew or heard of, on<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> a meere fiction of his owne invention. Thus hath this detractour dealt with vs; <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> with this moſt honourable and famo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> fact of Lancaſhire: In deſcribing it to be<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> vayne and ridiculous practize, detecting therein great deceite, and much legerde<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> mayne: and yet for all that, he neuer ſa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the practize of it with his eyes, neither di<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> he euer heare any evill detected, or decei<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> vſed therein. This worke was neuer y<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> called in queſtion nor euer examined by way of tryall, as is plainly confeſſed in the Diſcouerie: and hitherto there hath no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> bene found any one witneſſe to bring i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> any evidence to proue it counterfaite, no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> any Chriſtian euer yet heard to open his mouth to ſpeake any evill againſt it.</p>
+               <p>The Reader therefore may much won<g ref="char:EOLhyphen"/>der at the intollerable boldnes of this ma<g ref="char:EOLhyphen"/>licious Accuſer, that dare vndertake to diſcouer men &amp; their dealings, eſpecially Preachers of the Goſpell to be lewde cou<g ref="char:EOLhyphen"/>ſiners, and moſt notorious deceyvers, and yet neuer ſaw nor knew any evil by them, or any ſure and certaine ſignes of any ſu<g ref="char:EOLhyphen"/>ſpitio<g ref="char:cmbAbbrStroke">̄</g> therof. And may alſo ſee how iniu<g ref="char:EOLhyphen"/>rious they are, to this vnblameable work, that in an vnſatiable deſire to diſcredite it,
+<pb n="85" facs="tcp:184106:43"/>they haue caſt an evill name vpon it, defa<g ref="char:EOLhyphen"/>ming it for a fraudulent practize, though <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t was neuer tryed, nor yet euer detected to haue decey<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e or bad dealing in it, by any in the worlde beſides themſelues: which yet being meere ſtraungers to the cauſe, will needs condemne it before they heare it, and puniſh the parties that haue pra<g ref="char:EOLhyphen"/>ctized in it, as moſt impious, before they know what evill they haue done: And now hauing thus wronged vs being iuſt men, yea both robbed and wounded vs, as I may ſay: We muſt be bound to the peace, and muſt promiſe neither to publiſh nor practize theſe matters: or els remaine pri<g ref="char:EOLhyphen"/>ſoners ſtill, with expectation of further puniſhment, which wee are willing to endure, ſeeing we cannot chuſe but ſpeake thoſe thinges, which wee haue both heard &amp; ſeene.</p>
+            </div>
+            <div type="postscript">
+               <p>
+                  <hi>This diſcourſe good Reader was di<g ref="char:EOLhyphen"/>ſpatched in December laſt. The difficultie of printing hath hindred the publiſhing of it thus longe.</hi>
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
